@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/usound/radio/usoundradio/BuildConfig.java
+ com.usound.radio.usoundradio.BuildConfig
