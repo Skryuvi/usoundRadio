@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.sithiramunasinghe.flutter.flutter_radio_player" >
+
+    <uses-sdk android:minSdkVersion="16" />
+
+    <!-- Permissions for the plugin -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Services for the plugin -->
+    <application android:usesCleartextTraffic="true" >
+        <service android:name="me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore" />
+    </application>
+
+</manifest>

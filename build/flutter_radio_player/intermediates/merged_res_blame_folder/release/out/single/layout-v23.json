@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/layout-v23/exo_styled_player_control_rewind_button.xml",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/layout-v23/exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/layout-v23/exo_styled_player_control_ffwd_button.xml",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/layout-v23/exo_styled_player_control_ffwd_button.xml"
+    }
+]

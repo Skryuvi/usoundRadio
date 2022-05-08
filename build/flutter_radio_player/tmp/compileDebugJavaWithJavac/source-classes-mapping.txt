@@ -1,0 +1,2 @@
+me/sithiramunasinghe/flutter/flutter_radio_player/BuildConfig.java
+ me.sithiramunasinghe.flutter.flutter_radio_player.BuildConfig

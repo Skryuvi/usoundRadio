@@ -1,0 +1,268 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.usound.radio.usoundradio"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:3:5-76
+11-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:3:22-74
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:4:22-65
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[:flutter_radio_player] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+13-->[:flutter_radio_player] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/library_manifest/release/AndroidManifest.xml:9:22-64
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+14-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:5-66
+15-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:22-63
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- for android -->
+16-->[com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/ab24143c548789fc93de15d274a67b6e/jetified-exoplayer-core-2.13.1/AndroidManifest.xml:24:5-79
+16-->[com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/ab24143c548789fc93de15d274a67b6e/jetified-exoplayer-core-2.13.1/AndroidManifest.xml:24:22-76
+17    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+18    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+19    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+20    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+21    <!-- for Samsung -->
+22    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+22-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+22-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+23    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+23-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+23-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+24    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+24-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+24-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+25    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+25-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+25-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+26    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+26-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+26-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+27    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+27-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+27-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+28    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+28-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+28-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+29    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+29-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+29-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+30    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+30-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+30-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+31    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+31-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+31-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+32    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+32-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+32-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+33    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+33-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+33-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+34    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+34-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+34-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+35    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+35-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+35-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+36    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+36-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+36-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+37    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+37-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+37-->[me.leolin:ShortcutBadger:1.1.22] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/644c21982e4e9db8623e39519462506e/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+38
+39    <application
+40        android:name="android.app.Application"
+40-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:7:9-42
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.7.0] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/AndroidManifest.xml:24:18-86
+42        android:icon="@mipmap/ic_launcher"
+42-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:8:9-43
+43        android:label="usoundradio"
+43-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:6:9-36
+44        android:usesCleartextTraffic="true" >
+44-->[:flutter_radio_player] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/library_manifest/release/AndroidManifest.xml:11:18-53
+45        <activity
+45-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:9:9-29:20
+46            android:name="com.usound.radio.usoundradio.MainActivity"
+46-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:10:13-41
+47            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+47-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:14:13-163
+48            android:exported="true"
+48-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:11:13-36
+49            android:hardwareAccelerated="true"
+49-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:15:13-47
+50            android:launchMode="singleTop"
+50-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:12:13-43
+51            android:theme="@style/LaunchTheme"
+51-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:13:13-47
+52            android:windowSoftInputMode="adjustResize" >
+52-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:16:13-55
+53
+54            <!--
+55                 Specifies an Android theme to apply to this Activity as soon as
+56                 the Android process has started. This theme is visible to the user
+57                 while the Flutter UI initializes. After that, this theme continues
+58                 to determine the Window background behind the Flutter UI.
+59            -->
+60            <meta-data
+60-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:21:13-24:17
+61                android:name="io.flutter.embedding.android.NormalTheme"
+61-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:22:15-70
+62                android:resource="@style/NormalTheme" />
+62-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:23:15-52
+63
+64            <intent-filter>
+64-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:25:13-28:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:26:17-68
+65-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:26:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:27:17-76
+67-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:27:27-74
+68            </intent-filter>
+69        </activity>
+70        <!--
+71             Don't delete the meta-data below.
+72             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+73        -->
+74        <meta-data
+74-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:32:9-34:33
+75            android:name="flutterEmbedding"
+75-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:33:13-44
+76            android:value="2" />
+76-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:34:13-30
+77
+78        <service
+78-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:35:8-40:18
+79            android:name="me.carda.awesome_notifications.services.ForegroundService"
+79-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:35:17-89
+80            android:enabled="true"
+80-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:36:12-34
+81            android:exported="true"
+81-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:37:12-35
+82            android:foregroundServiceType="mediaProjection"
+82-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:39:12-59
+83            android:stopWithTask="true" >
+83-->/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/android/app/src/main/AndroidManifest.xml:38:12-39
+84        </service>
+85        <service android:name="me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore" />
+85-->[:flutter_radio_player] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/library_manifest/release/AndroidManifest.xml:12:9-104
+85-->[:flutter_radio_player] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/library_manifest/release/AndroidManifest.xml:12:18-101
+86
+87        <receiver
+87-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:11:9-13:40
+88            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver"
+88-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:12:13-121
+89            android:exported="false" />
+89-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+90        <receiver
+90-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:14:9-16:40
+91            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver"
+91-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:15:13-121
+92            android:exported="false" />
+92-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:16:13-37
+93        <receiver
+93-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:17:9-19:40
+94            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver"
+94-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:18:13-115
+95            android:exported="false" />
+95-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+96        <receiver
+96-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:20:9-33:20
+97            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshSchedulesReceiver"
+97-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:21:13-116
+98            android:exported="false" >
+98-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:22:13-37
+99            <intent-filter>
+99-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:23:13-32:29
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:24:17-76
+100-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:24:27-73
+101
+102                <action android:name="android.intent.action.BOOT_COMPLETED" />
+102-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:26:17-79
+102-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:26:25-76
+103                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+103-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:27:17-86
+103-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:27:25-83
+104                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+104-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:28:17-84
+104-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:28:25-81
+105                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+105-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:29:17-82
+105-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:29:25-79
+106                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+106-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:30:17-82
+106-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:30:25-79
+107                <action android:name="android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED" />
+107-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:31:17-107
+107-->[:awesome_notifications] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/awesome_notifications/intermediates/library_manifest/release/AndroidManifest.xml:31:25-104
+108            </intent-filter>
+109        </receiver>
+110
+111        <activity
+111-->[:url_launcher_android] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+112            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+112-->[:url_launcher_android] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+113            android:exported="false"
+113-->[:url_launcher_android] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+114            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+114-->[:url_launcher_android] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+115
+116        <provider
+116-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+117            android:name="io.flutter.plugins.share.ShareFileProvider"
+117-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:9:13-70
+118            android:authorities="com.usound.radio.usoundradio.flutter.share_provider"
+118-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+119            android:exported="false"
+119-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+120            android:grantUriPermissions="true" >
+120-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+121            <meta-data
+121-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:68
+122                android:name="android.support.FILE_PROVIDER_PATHS"
+122-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+123                android:resource="@xml/flutter_share_file_paths" />
+123-->[:share] /Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/share/intermediates/library_manifest/release/AndroidManifest.xml:15:17-65
+124        </provider>
+125
+126        <uses-library
+126-->[androidx.window:window:1.0.0-beta04] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+127            android:name="androidx.window.extensions"
+127-->[androidx.window:window:1.0.0-beta04] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+128            android:required="false" />
+128-->[androidx.window:window:1.0.0-beta04] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+129        <uses-library
+129-->[androidx.window:window:1.0.0-beta04] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+130            android:name="androidx.window.sidecar"
+130-->[androidx.window:window:1.0.0-beta04] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+131            android:required="false" />
+131-->[androidx.window:window:1.0.0-beta04] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+132
+133        <provider
+133-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5b28ea65995a10537a2c988d76489f89/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+134            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+134-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5b28ea65995a10537a2c988d76489f89/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+135            android:authorities="com.usound.radio.usoundradio.lifecycle-process"
+135-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5b28ea65995a10537a2c988d76489f89/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+136            android:exported="false"
+136-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5b28ea65995a10537a2c988d76489f89/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+137            android:multiprocess="true" />
+137-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5b28ea65995a10537a2c988d76489f89/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+138    </application>
+139
+140</manifest>

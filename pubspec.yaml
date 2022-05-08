@@ -12,15 +12,20 @@ dependencies:
     sdk: flutter
 
   dio: ^4.0.0
-  audio_session: ^0.1.6+1
-  just_audio: ^0.9.20
   cupertino_icons: ^1.0.2
-  json_serializable: ^6.1.6
-  json_annotation: ^4.4.0
   flutter_bloc: ^8.0.1
   http: ^0.13.3
+#  //2.2.0
+  page_transition: ^2.0.4
+  awesome_notifications: ^0.6.21
   google_fonts: 2.2.0
   equatable: ^2.0.3
+  url_launcher: ^6.0.12
+  fluttertoast: ^8.0.9
+  path_provider: ^2.0.4
+  shared_preferences: ^2.0.8
+  flutter_radio_player: ^1.0.7
+  share: ^2.0.4
 
 dev_dependencies:
   flutter_test:

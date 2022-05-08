@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_pause_circle_filled.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_pause_circle_filled.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_settings.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_settings.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_chevron_left.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_chevron_left.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_audiotrack.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_audiotrack.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_fullscreen_enter.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_circular_play.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_icon_circular_play.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_chevron_right.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_chevron_right.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_skip_next.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_skip_next.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_speed.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_speed.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_subtitle_on.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_subtitle_on.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_subtitle_off.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_subtitle_off.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_rewind.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_rewind.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_skip_previous.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_skip_previous.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_default_album_image.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_default_album_image.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_check.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_check.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_fullscreen_exit.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_forward.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_forward.png"
+    },
+    {
+        "merged": "/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_play_circle_filled.png",
+        "source": "/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c9d9e1ee8533c11b456d2c39b7c347c9/jetified-exoplayer-ui-2.13.1/res/drawable-xxxhdpi-v4/exo_ic_play_circle_filled.png"
+    }
+]

@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:2:5-64
+		INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:9:5-13:19
+	android:usesCleartextTraffic
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:9:18-53
+service#me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore
+ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:10:9-12:49
+	android:name
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml:12:13-47
+uses-sdk
+INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilagordinov/downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/AndroidManifest.xml

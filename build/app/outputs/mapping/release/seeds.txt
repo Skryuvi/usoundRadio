@@ -1,0 +1,1866 @@
+kotlinx.coroutines.internal.LockFreeTaskQueueCore
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.concurrent.locks.ReentrantLock lock
+kotlinx.coroutines.JobCancellingNode
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+kotlinx.coroutines.internal.AtomicOp
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowVrButton(boolean)
+androidx.window.embedding.EmbeddingCompat: void setSplitRules(java.util.Set)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList windowLayoutChangeCallbacks
+androidx.core.view.ViewCompat$Api17Impl: int generateViewId()
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface callback
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List lastInfo
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+androidx.window.layout.SidecarAdapter: java.lang.String TAG
+com.google.android.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.window.layout.WindowInfoTracker$Companion: boolean DEBUG
+androidx.window.layout.SidecarCompat$Companion
+android.support.v4.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.exoplayer2.metadata.Metadata: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.PlayerControlView: void setRepeatToggleModes(int)
+kotlinx.coroutines.channels.AbstractChannel$ReceiveHasNext
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControllerShowTimeoutMs(int)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowNextButton(boolean)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.ActivityFilter: java.lang.String toString()
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.window.embedding.SplitInfo: boolean equals(java.lang.Object)
+androidx.window.R$styleable: int SplitPairRule_splitRatio
+com.google.android.exoplayer2.ui.StyledPlayerControlView: boolean getShowSubtitleButton()
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface: void onSplitInfoChanged(java.util.List)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component2(android.util.Pair)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getSecondaryActivityName()
+io.flutter.plugins.urllauncher.WebViewActivity
+androidx.window.core.Bounds: int getWidth()
+androidx.core.view.ViewCompat$Api16Impl: boolean getFitsSystemWindows(android.view.View)
+androidx.window.embedding.EmbeddingCompat$Companion
+androidx.window.layout.ActivityCompatHelperApi24: boolean isInMultiWindowMode(android.app.Activity)
+androidx.window.layout.WindowInfoTracker$Companion
+kotlinx.coroutines.CancellableContinuationImpl
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+com.google.android.exoplayer2.ui.PlayerControlView: void setPlayer(com.google.android.exoplayer2.Player)
+androidx.lifecycle.ProcessLifecycleOwner$3
+me.carda.awesome_notifications.notifications.enumerators.NotificationLayout: me.carda.awesome_notifications.notifications.enumerators.NotificationLayout[] values()
+androidx.core.view.ViewCompat$Api26Impl: android.view.View keyboardNavigationClusterSearch(android.view.View,android.view.View,int)
+androidx.window.layout.WindowInfoTracker$Companion: java.lang.String TAG
+com.google.android.exoplayer2.ui.SubtitleView: void setBottomPaddingFraction(float)
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+androidx.window.layout.WindowInfoTrackerImpl: int BUFFER_CAPACITY
+androidx.window.layout.HardwareFoldingFeature
+androidx.recyclerview.widget.RecyclerView: void setScrollState(int)
+io.flutter.embedding.android.FlutterSurfaceView
+androidx.activity.ImmLeaksCleaner
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+kotlin.jvm.internal.CallableReference: java.util.List getAnnotations()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+com.google.android.exoplayer2.metadata.scte35.SpliceScheduleCommand: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setDefaultArtwork(android.graphics.drawable.Drawable)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setAspectRatioListener(com.google.android.exoplayer2.ui.AspectRatioFrameLayout$AspectRatioListener)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeWindowLayoutInfoListener(androidx.core.util.Consumer)
+androidx.window.layout.SidecarCompat: void register(android.os.IBinder,android.app.Activity)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+androidx.window.R$styleable: int SplitPairRule_splitMinWidth
+androidx.recyclerview.widget.RecyclerView: void setAdapter(androidx.recyclerview.widget.RecyclerView$Adapter)
+androidx.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.lifecycle.Lifecycling$1
+com.google.android.exoplayer2.ui.TrackSelectionView
+androidx.window.core.Version: int getPatch()
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+com.google.android.exoplayer2.offline.StreamKey: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+androidx.lifecycle.ProcessLifecycleOwner$3: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+me.carda.awesome_notifications.notifications.enumerators.NotificationCategory: me.carda.awesome_notifications.notifications.enumerators.NotificationCategory[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: androidx.window.layout.WindowInfoTracker tracker
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.window.layout.ExtensionInterfaceCompat
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.window.core.Bounds: int getRight()
+kotlinx.coroutines.channels.AbstractChannel$enqueueReceiveInternal$$inlined$addLastIfPrevAndIf$1
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+me.carda.awesome_notifications.notifications.enumerators.NotificationPrivacy: me.carda.awesome_notifications.notifications.enumerators.NotificationPrivacy valueOf(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getFOLD()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.core.view.ViewCompat$Api26Impl: boolean isImportantForAutofill(android.view.View)
+androidx.core.view.ViewCompat$Api16Impl: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider(android.view.View)
+androidx.window.layout.WindowMetrics: WindowMetrics(android.graphics.Rect)
+androidx.window.layout.WindowMetricsCalculator
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+androidx.window.R$attr: int activityAction
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+com.google.android.exoplayer2.trackselection.TrackSelectionParameters: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.FlutterImageView
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+androidx.window.embedding.ActivityFilter: boolean matchesActivity(android.app.Activity)
+androidx.window.embedding.SplitInfo: float getSplitRatio()
+androidx.window.layout.WindowMetricsCalculatorDecorator
+com.google.android.exoplayer2.ui.StyledPlayerView
+androidx.window.embedding.SplitController$Companion: SplitController$Companion()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.google.common.base.AbstractIterator$State: com.google.common.base.AbstractIterator$State[] values()
+androidx.window.core.Bounds: boolean isEmpty()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+androidx.window.embedding.SplitInfo: float splitRatio
+androidx.window.layout.DisplayCompatHelperApi28: DisplayCompatHelperApi28()
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: boolean validBounds(android.app.Activity,androidx.window.core.Bounds)
+androidx.window.layout.DisplayCompatHelperApi28
+androidx.core.view.ViewCompat$Api17Impl: void setLayerPaint(android.view.View,android.graphics.Paint)
+com.google.android.exoplayer2.ui.PlayerView: void setControlDispatcher(com.google.android.exoplayer2.ControlDispatcher)
+androidx.window.embedding.ActivityFilter: android.content.ComponentName getComponentName()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.layout.EmptyDecorator
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent getPlaceholderIntent()
+androidx.window.embedding.EmbeddingCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+androidx.window.embedding.MatcherUtils: MatcherUtils()
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+androidx.lifecycle.ProcessLifecycleOwner$3$1: androidx.lifecycle.ProcessLifecycleOwner$3 this$1
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.window.R$attr: int secondaryActivityAction
+androidx.window.embedding.SplitPairFilter: SplitPairFilter(android.content.ComponentName,android.content.ComponentName,java.lang.String)
+androidx.core.view.ViewCompat$Api29Impl: java.util.List getSystemGestureExclusionRects(android.view.View)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: boolean isEmpty()
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation HORIZONTAL
+androidx.core.view.ViewCompat$Api17Impl: int getPaddingEnd(android.view.View)
+me.carda.awesome_notifications.notifications.enumerators.NotificationSource: me.carda.awesome_notifications.notifications.enumerators.NotificationSource[] values()
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1(androidx.window.layout.SidecarCompat,android.app.Activity)
+com.google.android.exoplayer2.ui.PlayerView: void setShowFastForwardButton(boolean)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+androidx.window.embedding.ExtensionEmbeddingBackend: void setEmbeddingExtension(androidx.window.embedding.EmbeddingInterfaceCompat)
+androidx.recyclerview.widget.RecyclerView: int getMinFlingVelocity()
+com.google.android.exoplayer2.metadata.id3.MlltFrame: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.SavedStateHandleController$OnRecreation: SavedStateHandleController$OnRecreation()
+androidx.window.embedding.MatcherUtils: androidx.window.embedding.MatcherUtils INSTANCE
+com.google.android.exoplayer2.metadata.flac.PictureFrame: android.os.Parcelable$Creator CREATOR
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void releaseIntercepted()
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+kotlinx.coroutines.LazyStandaloneCoroutine
+android.support.v4.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+com.google.android.exoplayer2.upstream.RawResourceDataSource: android.net.Uri buildRawResourceUri(int)
+androidx.window.layout.FoldingFeature$Orientation$Companion
+androidx.window.embedding.EmbeddingAdapter: java.util.List translate(java.util.List)
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+com.google.android.exoplayer2.video.VideoDecoderGLSurfaceView
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: androidx.window.layout.SidecarCompat sidecarCompat
+kotlin.jvm.internal.CallableReference: java.lang.String getName()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion()
+androidx.window.embedding.SplitPairRule: boolean equals(java.lang.Object)
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+kotlinx.coroutines.BlockingEventLoop
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingAdapter adapter
+me.leolin.shortcutbadger.impl.SonyHomeBadger: SonyHomeBadger()
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type HINGE
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowPreviousButton(boolean)
+androidx.window.embedding.SplitRule: boolean equals(java.lang.Object)
+androidx.window.core.Version: Version(int,int,int,java.lang.String)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowBackend windowBackend$window_release(android.content.Context)
+androidx.window.layout.SidecarAdapter
+androidx.window.layout.WindowMetricsCalculatorCompat: java.lang.String TAG
+me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String description
+kotlinx.coroutines.channels.Receive
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable compute()
+androidx.window.embedding.EmbeddingAdapter
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+kotlinx.coroutines.ChildHandleNode
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsP$window_release(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.R$attr
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.embedding.EmbeddingAdapter: java.util.Set translate(java.util.Set)
+androidx.recyclerview.widget.RecyclerView: androidx.core.view.NestedScrollingChildHelper getScrollingChildHelper()
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api26Impl: boolean restoreDefaultFocus(android.view.View)
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend windowBackend
+androidx.window.layout.WindowMetrics: int hashCode()
+com.google.android.exoplayer2.ui.PlayerView: void setShowPreviousButton(boolean)
+androidx.window.layout.SidecarCompat: java.util.Map componentCallbackMap
+androidx.window.embedding.SplitController: void registerRule(androidx.window.embedding.EmbeddingRule)
+com.google.android.exoplayer2.ui.StyledPlayerView: java.util.List getAdOverlayInfos()
+com.google.android.exoplayer2.metadata.mp4.MdtaMetadataEntry: android.os.Parcelable$Creator CREATOR
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation,kotlin.coroutines.CoroutineContext)
+androidx.window.core.Version$bigInteger$2: java.lang.Object invoke()
+androidx.window.layout.SidecarAdapter$Companion: int getRawSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.R$styleable
+androidx.window.layout.WindowMetricsCalculatorCompat: android.view.DisplayCutout getCutoutForDisplay(android.view.Display)
+kotlin.jvm.internal.FunctionReference: int getArity()
+androidx.core.view.ViewCompat$Api26Impl: void setImportantForAutofill(android.view.View,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept(java.util.List)
+kotlin.jvm.internal.CallableReference: java.lang.String signature
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$EdgeEffectFactory getEdgeEffectFactory()
+androidx.window.embedding.EmbeddingCompat: boolean DEBUG
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.lang.Object)
+androidx.window.embedding.SplitPairRule: boolean finishPrimaryWithSecondary
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.window.core.Version: int compareTo(androidx.window.core.Version)
+androidx.recyclerview.widget.GridLayoutManager: GridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+androidx.window.embedding.ActivityRule
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+androidx.window.embedding.SplitController: void initialize(android.content.Context,int)
+androidx.window.layout.FoldingFeature$Orientation
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+androidx.lifecycle.FullLifecycleObserverAdapter
+kotlinx.coroutines.CancelledContinuation
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+kotlin.jvm.internal.FunctionReference: boolean equals(java.lang.Object)
+com.google.android.exoplayer2.ui.SubtitleView: void setFractionalTextSize(float)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowSubtitleButton(boolean)
+androidx.window.embedding.SplitRule: float splitRatio
+kotlin.jvm.internal.FunctionReference: FunctionReference(int)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowVrButton(boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_1_0()
+kotlinx.coroutines.internal.LockFreeTaskQueue
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+me.leolin.shortcutbadger.impl.ApexHomeBadger: ApexHomeBadger()
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowFastForwardButton(boolean)
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.concurrent.Executor executor
+com.google.android.exoplayer2.ui.PlayerControlView: void setPlaybackPreparer(com.google.android.exoplayer2.PlaybackPreparer)
+androidx.window.core.Bounds: boolean equals(java.lang.Object)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.ActivityCompatHelperApi30: ActivityCompatHelperApi30()
+me.sithiramunasinghe.flutter.flutter_radio_player.FlutterRadioPlayerPlugin$onAttachedToActivity$1
+me.leolin.shortcutbadger.impl.NewHtcHomeBadger
+kotlin.coroutines.AbstractCoroutineContextElement: java.lang.Object fold(java.lang.Object,kotlin.jvm.functions.Function2)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+androidx.lifecycle.SavedStateHandleController
+kotlinx.coroutines.channels.AbstractSendChannel$SendBuffered
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.android.HandlerContext createDispatcher(java.util.List)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+me.carda.awesome_notifications.notifications.enumerators.DefaultRingtoneType: me.carda.awesome_notifications.notifications.enumerators.DefaultRingtoneType valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setVrButtonListener(android.view.View$OnClickListener)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+androidx.window.core.Bounds: int bottom
+kotlin.jvm.internal.FunctionReference: boolean isSuspend()
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1
+com.google.android.exoplayer2.ui.SubtitleView
+android.support.v4.media.session.ParcelableVolumeInfo
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setTimeBarMinUpdateInterval(int)
+androidx.window.embedding.SplitPlaceholderRule
+androidx.core.view.ViewCompat$Api17Impl: int getLabelFor(android.view.View)
+androidx.window.layout.EmptyDecorator: EmptyDecorator()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.google.android.exoplayer2.ui.PlayerView: void setShowShuffleButton(boolean)
+androidx.window.embedding.SplitPairFilter: boolean equals(java.lang.Object)
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+androidx.window.embedding.SplitPairRule: java.util.Set getFilters()
+androidx.window.embedding.ActivityFilter: java.lang.String getIntentAction()
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$Companion Companion
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState,int)
+com.google.android.exoplayer2.metadata.emsg.EventMessage: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+com.google.android.exoplayer2.metadata.id3.CommentFrame: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarCompat: SidecarCompat(androidx.window.sidecar.SidecarInterface,androidx.window.layout.SidecarAdapter)
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.window.embedding.ActivityFilter: boolean matchesIntent(android.content.Intent)
+androidx.recyclerview.widget.StaggeredGridLayoutManager$LazySpanLookup$FullSpanItem: android.os.Parcelable$Creator CREATOR
+androidx.window.core.Version
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+com.google.android.exoplayer2.metadata.id3.ApicFrame: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowFastForwardButton(boolean)
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.embedding.EmbeddingTranslatingCallback: EmbeddingTranslatingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface,androidx.window.embedding.EmbeddingAdapter)
+me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshSchedulesReceiver: RefreshSchedulesReceiver()
+androidx.window.embedding.SplitInfo: boolean contains(android.app.Activity)
+androidx.window.layout.FoldingFeature$Orientation: FoldingFeature$Orientation(java.lang.String)
+androidx.window.embedding.SplitPairRule: boolean getFinishSecondaryWithPrimary()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable computeReflected()
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName primaryActivityName
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+androidx.window.R$id: R$id()
+androidx.window.embedding.SplitPairRule: java.util.Set filters
+androidx.core.view.ViewCompat$Api17Impl: int getLayoutDirection(android.view.View)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout: void setAspectRatioListener(com.google.android.exoplayer2.ui.AspectRatioFrameLayout$AspectRatioListener)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+androidx.window.core.Bounds: int getLeft()
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityStopped(android.app.Activity)
+androidx.recyclerview.widget.RecyclerView$LayoutManager: RecyclerView$LayoutManager()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+androidx.window.java.R: R()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+androidx.window.layout.WindowMetricsCalculator$Companion: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+androidx.window.embedding.SplitPairFilter: java.lang.String secondaryActivityIntentAction
+androidx.window.layout.ExtensionInterfaceCompat: boolean validateExtensionInterface()
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowNextButton(boolean)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface callbackInterface
+androidx.window.layout.HardwareFoldingFeature$Type$Companion
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+androidx.window.layout.DisplayFeature: android.graphics.Rect getBounds()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.window.embedding.SplitController$Companion: void initialize(android.content.Context,int)
+androidx.window.embedding.EmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.core.Bounds
+androidx.window.core.Version: int hashCode()
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter sidecarAdapter
+androidx.window.embedding.SplitController: void addSplitListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.core.Version: androidx.window.core.Version UNKNOWN
+androidx.window.layout.WindowLayoutInfo: WindowLayoutInfo(java.util.List)
+androidx.window.core.Version$Companion
+androidx.window.embedding.ActivityStack: boolean contains(android.app.Activity)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(kotlinx.coroutines.flow.FlowCollector,kotlin.coroutines.Continuation)
+androidx.window.layout.DisplayCompatHelperApi17: androidx.window.layout.DisplayCompatHelperApi17 INSTANCE
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.window.embedding.EmbeddingBackend
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend$Companion Companion
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+androidx.window.embedding.SplitController: SplitController()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewDetachedFromWindow(android.view.View)
+kotlinx.coroutines.channels.RendezvousChannel
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+androidx.window.embedding.SplitController: void removeSplitListener(androidx.core.util.Consumer)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setPlaybackPreparer(com.google.android.exoplayer2.PlaybackPreparer)
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.util.List)
+androidx.window.embedding.SplitRule: int getMinWidth()
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+androidx.window.embedding.MatcherUtils: java.lang.String sMatchersTag
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity getActivity()
+kotlin.jvm.internal.CallableReference: java.util.List getTypeParameters()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+androidx.window.embedding.SplitRuleParser: android.content.ComponentName buildClassName(java.lang.String,java.lang.CharSequence)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShutterBackgroundColor(int)
+io.flutter.plugins.share.ShareFileProvider: ShareFileProvider()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface extensionCallback
+androidx.window.layout.HardwareFoldingFeature: boolean equals(java.lang.Object)
+androidx.window.embedding.EmptyEmbeddingComponent: void setSplitInfoCallback(java.util.function.Consumer)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarDeviceState lastDeviceState
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: boolean isExtensionVersionSupported(java.lang.Integer)
+com.google.android.exoplayer2.ui.SubtitleView: void setView(android.view.View)
+com.google.android.exoplayer2.ui.PlayerView: android.view.View[] getAdOverlayViews()
+androidx.window.embedding.ActivityRule: int hashCode()
+androidx.window.embedding.ActivityStack: boolean equals(java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.google.common.collect.Maps$EntryFunction: com.google.common.collect.Maps$EntryFunction valueOf(java.lang.String)
+androidx.core.app.CoreComponentFactory
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: ExtensionWindowLayoutInfoBackend$MulticastConsumer(android.app.Activity)
+androidx.window.layout.FoldingFeature$State: java.lang.String description
+com.google.android.exoplayer2.ui.PlayerView: void setAspectRatioListener(com.google.android.exoplayer2.ui.AspectRatioFrameLayout$AspectRatioListener)
+kotlinx.coroutines.NodeList
+androidx.window.layout.DisplayCompatHelperApi17: DisplayCompatHelperApi17()
+androidx.window.layout.WindowMetrics: android.graphics.Rect getBounds()
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.EmbeddingCompat$Companion: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingComponent()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.window.layout.WindowInfoTracker$Companion: void reset()
+androidx.window.layout.SidecarCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+com.google.android.exoplayer2.metadata.mp4.MotionPhotoMetadata: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ProcessLifecycleOwnerInitializer: ProcessLifecycleOwnerInitializer()
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+androidx.window.layout.WindowInfoTrackerDecorator
+androidx.media.AudioAttributesImplApi26: AudioAttributesImplApi26()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+androidx.window.layout.SidecarWindowBackend: boolean isActivityRegistered(android.app.Activity)
+androidx.window.embedding.SplitController: void setStaticSplitRules(java.util.Set)
+androidx.core.view.ViewCompat$Api29Impl: void setSystemGestureExclusionRects(android.view.View,java.util.List)
+io.flutter.plugins.urllauncher.WebViewActivity: WebViewActivity()
+androidx.window.core.Version: androidx.window.core.Version$Companion Companion
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation VERTICAL
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable reflected
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept$lambda-1(androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper,java.util.List)
+androidx.lifecycle.ProcessLifecycleOwner$3$1: void onActivityPostStarted(android.app.Activity)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo lastInfo
+com.google.android.exoplayer2.metadata.mp4.SlowMotionData: android.os.Parcelable$Creator CREATOR
+androidx.window.core.Version: java.math.BigInteger getBigInteger()
+kotlinx.coroutines.EventLoopImplBase$DelayedTaskQueue
+androidx.core.graphics.drawable.IconCompat
+kotlinx.coroutines.channels.AbstractSendChannel: java.lang.Object onCloseHandler
+androidx.media.AudioAttributesImplBaseParcelizer
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$Adapter getAdapter()
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.spherical.SphericalGLSurfaceView: void setUseSensorRotation(boolean)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityPair(android.app.Activity,android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator$Companion$reset$1 INSTANCE
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName secondaryActivityName
+androidx.window.core.Version$Companion: Version$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityAction
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl
+androidx.window.layout.WindowInfoTracker
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.exoplayer2.source.hls.HlsMediaSource$Factory: HlsMediaSource$Factory(com.google.android.exoplayer2.upstream.DataSource$Factory)
+com.google.android.exoplayer2.ui.PlayerControlView: void setTimeBarMinUpdateInterval(int)
+androidx.window.layout.SidecarAdapter$Companion: java.util.List getSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.core.Version$bigInteger$2: java.math.BigInteger invoke()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat getWindowExtension()
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.layout.HardwareFoldingFeature: HardwareFoldingFeature(androidx.window.core.Bounds,androidx.window.layout.HardwareFoldingFeature$Type,androidx.window.layout.FoldingFeature$State)
+kotlin.jvm.internal.FunctionReference: boolean isInfix()
+androidx.window.layout.ActivityCompatHelperApi24: androidx.window.layout.ActivityCompatHelperApi24 INSTANCE
+androidx.recyclerview.widget.RecyclerView: int getScrollState()
+com.usound.radio.usoundradio.MainActivity
+androidx.window.embedding.ActivityStack: boolean isEmpty
+me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver: KeepOnTopActionReceiver()
+androidx.recyclerview.widget.LinearLayoutManager
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+kotlin.jvm.internal.CallableReference: boolean isFinal()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+com.google.android.exoplayer2.source.hls.HlsMediaSource$Factory
+androidx.window.R$attr: int finishPrimaryWithSecondary
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$0
+androidx.window.embedding.EmbeddingRule
+kotlin.coroutines.AbstractCoroutineContextElement: AbstractCoroutineContextElement(kotlin.coroutines.CoroutineContext$Key)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.window.layout.SidecarCompat: java.util.Map windowListenerRegisteredContexts
+androidx.window.core.Version: int getMajor()
+com.google.android.exoplayer2.ui.PlayerView: com.google.android.exoplayer2.Player getPlayer()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+com.google.android.exoplayer2.ui.SubtitleView: SubtitleView(android.content.Context,android.util.AttributeSet)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: SidecarWindowBackend$WindowLayoutChangeCallbackWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.exoplayer2.metadata.scte35.SpliceInsertCommand: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+android.support.v4.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+androidx.recyclerview.widget.RecyclerView: long getNanoTime()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+androidx.window.embedding.SplitPlaceholderRule: boolean equals(java.lang.Object)
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowNextButton(boolean)
+me.leolin.shortcutbadger.impl.XiaomiHomeBadger: XiaomiHomeBadger()
+com.google.android.exoplayer2.ui.PlayerView: boolean getControllerHideOnTouch()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: ExtensionEmbeddingBackend$EmbeddingCallbackImpl(androidx.window.embedding.ExtensionEmbeddingBackend)
+com.google.android.exoplayer2.ui.TrackSelectionView: void setAllowMultipleOverrides(boolean)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addWindowLayoutInfoListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.exoplayer2.metadata.id3.TextInformationFrame: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.StyledPlayerView: void setRepeatToggleModes(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.window.embedding.MatcherUtils: boolean sDebugMatchers
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeature(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDisplayFeature)
+kotlinx.coroutines.UndispatchedCoroutine
+kotlinx.coroutines.EventLoopImplBase
+androidx.core.view.ViewCompat$Api26Impl: boolean isKeyboardNavigationCluster(android.view.View)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+androidx.window.core.Version$Companion: androidx.window.core.Version parse(java.lang.String)
+androidx.window.core.Bounds: int getTop()
+androidx.window.layout.WindowLayoutInfo: java.lang.String toString()
+kotlin.jvm.internal.CallableReference: boolean isAbstract()
+androidx.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer callback
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: ExtensionEmbeddingBackend$SplitListenerWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.core.view.ViewCompat$Api16Impl: boolean hasOverlappingRendering(android.view.View)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+kotlinx.coroutines.CompletedExceptionally
+com.google.android.exoplayer2.ui.StyledPlayerView: boolean getControllerAutoShow()
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.core.view.ViewCompat$Api19Impl: boolean isLaidOut(android.view.View)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.layout.SidecarAdapter sidecarAdapter
+androidx.window.layout.WindowMetricsCalculator$Companion
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+com.google.android.exoplayer2.metadata.id3.ChapterFrame: android.os.Parcelable$Creator CREATOR
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Element get(kotlin.coroutines.CoroutineContext$Key)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: int getRepeatToggleModes()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+androidx.window.layout.WindowBackend
+androidx.core.view.ViewCompat$Api16Impl: void postOnAnimation(android.view.View,java.lang.Runnable)
+kotlinx.coroutines.scheduling.LimitingDispatcher: int inFlightTasks
+com.google.android.exoplayer2.ui.PlayerControlView: com.google.android.exoplayer2.Player getPlayer()
+com.google.android.exoplayer2.ui.PlayerView: void setUseSensorRotation(boolean)
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinWidth
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.EmbeddingInterfaceCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getPrimaryActivityName()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker$Companion $$INSTANCE
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion()
+androidx.recyclerview.widget.RecyclerView: void setViewCacheExtension(androidx.recyclerview.widget.RecyclerView$ViewCacheExtension)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer callback
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList getSplitChangeCallbacks()
+androidx.core.content.ContextCompat$Api19Impl: java.io.File[] getExternalFilesDirs(android.content.Context,java.lang.String)
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout: void setResizeMode(int)
+me.carda.awesome_notifications.notifications.enumerators.NotificationSource: me.carda.awesome_notifications.notifications.enumerators.NotificationSource valueOf(java.lang.String)
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set filters
+androidx.window.layout.SidecarWindowBackend: java.lang.String TAG
+androidx.window.embedding.SplitRule: int getMinSmallestWidth()
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface sidecar
+androidx.window.embedding.MatcherUtils: boolean areComponentsMatching$window_release(android.content.ComponentName,android.content.ComponentName)
+androidx.recyclerview.widget.RecyclerView: RecyclerView(android.content.Context,android.util.AttributeSet)
+androidx.window.core.Bounds: Bounds(int,int,int,int)
+me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore: StreamingCore()
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout: void setAspectRatio(float)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+androidx.recyclerview.widget.RecyclerView: void setItemViewCacheSize(int)
+kotlinx.coroutines.channels.ConflatedChannel
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect maximumWindowBounds(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.ViewCompat$Api16Impl: void removeOnGlobalLayoutListener(android.view.ViewTreeObserver,android.view.ViewTreeObserver$OnGlobalLayoutListener)
+kotlinx.coroutines.AbstractCoroutine
+androidx.window.R$styleable: int SplitPlaceholderRule_splitRatio
+androidx.recyclerview.widget.StaggeredGridLayoutManager
+androidx.window.R$attr: int clearTop
+androidx.window.embedding.EmbeddingTranslatingCallback
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.window.core.ExperimentalWindowApi
+com.google.android.exoplayer2.Format: android.os.Parcelable$Creator CREATOR
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1(androidx.core.util.Consumer)
+com.google.android.exoplayer2.ui.SubtitleView: void setViewType(int)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControllerAutoShow(boolean)
+kotlin.jvm.internal.FunctionReference: int flags
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetRight(android.view.DisplayCutout)
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowInfoTrackerImpl$Companion Companion
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowRewindButton(boolean)
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.window.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+me.carda.awesome_notifications.notifications.enumerators.GroupSort: me.carda.awesome_notifications.notifications.enumerators.GroupSort[] values()
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setProgressUpdateListener(com.google.android.exoplayer2.ui.StyledPlayerControlView$ProgressUpdateListener)
+androidx.window.embedding.SplitController$Companion: SplitController$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+me.leolin.shortcutbadger.impl.DefaultBadger
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter access$getSidecarAdapter$p(androidx.window.layout.SidecarCompat)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.FoldingFeature translate$window_release(android.app.Activity,androidx.window.extensions.layout.FoldingFeature)
+android.support.v4.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.recyclerview.widget.RecyclerView: boolean isLayoutSuppressed()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowShuffleButton(boolean)
+androidx.window.embedding.SplitPairRule: boolean getFinishPrimaryWithSecondary()
+com.google.android.exoplayer2.metadata.scte35.SpliceNullCommand: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityStack
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.lifecycle.ProcessLifecycleOwner$3: androidx.lifecycle.ProcessLifecycleOwner this$0
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String toString()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setOnFullScreenModeChangedListener(com.google.android.exoplayer2.ui.StyledPlayerControlView$OnFullScreenModeChangedListener)
+androidx.window.layout.WindowLayoutInfo
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPredicates$lambda-6(java.util.Set,android.app.Activity)
+androidx.window.layout.WindowInfoTrackerDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+com.google.android.exoplayer2.ui.PlayerView: boolean getUseArtwork()
+kotlinx.coroutines.android.AndroidExceptionPreHandler
+com.google.common.collect.Maps$EntryFunction: com.google.common.collect.Maps$EntryFunction[] values()
+androidx.window.R$id: int rtl
+androidx.window.embedding.EmptyEmbeddingComponent
+kotlin.jvm.internal.CallableReference: boolean isTopLevel
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetricsCalculator$Companion Companion
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitXml(android.content.Context,int)
+androidx.window.layout.SidecarWindowBackend$Companion: boolean isSidecarVersionSupported(androidx.window.core.Version)
+com.google.android.exoplayer2.ui.PlayerView: void setControllerHideOnTouch(boolean)
+androidx.recyclerview.widget.RecyclerView: void setNestedScrollingEnabled(boolean)
+com.google.common.base.AbstractIterator$State: com.google.common.base.AbstractIterator$State valueOf(java.lang.String)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowMultiWindowTimeBar(boolean)
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowTimeoutMs(int)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type getType$window_release()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.List lastValue
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.R$id: int androidx_window_activity_scope
+androidx.window.layout.HardwareFoldingFeature$Type
+androidx.window.layout.SidecarAdapter: SidecarAdapter()
+androidx.window.embedding.EmbeddingAdapter: androidx.window.embedding.SplitInfo translate(androidx.window.extensions.embedding.SplitInfo)
+com.google.android.exoplayer2.ui.PlayerView: void setPlayer(com.google.android.exoplayer2.Player)
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.core.app.RemoteActionCompat
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+androidx.lifecycle.ProcessLifecycleOwner$3: ProcessLifecycleOwner$3(androidx.lifecycle.ProcessLifecycleOwner)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+androidx.core.view.ViewCompat$Api26Impl: void setNextClusterForwardId(android.view.View,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+kotlinx.coroutines.scheduling.LimitingDispatcher
+kotlinx.coroutines.DispatchedCoroutine
+com.google.android.exoplayer2.ui.PlayerView: void setShowMultiWindowTimeBar(boolean)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+androidx.recyclerview.widget.RecyclerView: void setEdgeEffectFactory(androidx.recyclerview.widget.RecyclerView$EdgeEffectFactory)
+androidx.window.embedding.EmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.core.Version: Version(int,int,int,java.lang.String,kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.channels.Send
+androidx.window.embedding.EmbeddingAdapter: boolean translateIntentPredicates$lambda-8(java.util.Set,android.content.Intent)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: java.lang.Object emit(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.window.embedding.EmbeddingInterfaceCompat
+androidx.media.AudioAttributesImplApi26Parcelizer
+me.carda.awesome_notifications.notifications.enumerators.NotificationPrivacy: me.carda.awesome_notifications.notifications.enumerators.NotificationPrivacy[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat embeddingExtension
+androidx.window.layout.SidecarCompat$DistinctElementCallback: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+androidx.window.R$styleable: int[] SplitPlaceholderRule
+kotlinx.coroutines.channels.ArrayChannel: int size
+androidx.window.embedding.SplitRule: int minWidth
+androidx.window.embedding.SplitRule: float getSplitRatio()
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend: void getSplitChangeCallbacks$annotations()
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+androidx.window.embedding.EmbeddingCompat$Companion: boolean isEmbeddingAvailable()
+androidx.window.embedding.SplitPairRule
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+androidx.window.java.R
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1 INSTANCE
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getHINGE()
+androidx.window.layout.SidecarCompat: SidecarCompat(android.content.Context)
+androidx.window.core.Version: int compareTo(java.lang.Object)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerViewAccessibilityDelegate getCompatAccessibilityDelegate()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: int getShowTimeoutMs()
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_0_1$cp()
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+android.support.v4.media.AudioAttributesImplBaseParcelizer
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.window.layout.SidecarWindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$RecycledViewPool getRecycledViewPool()
+me.carda.awesome_notifications.notifications.enumerators.NotificationLayout: me.carda.awesome_notifications.notifications.enumerators.NotificationLayout valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$3$1: ProcessLifecycleOwner$3$1(androidx.lifecycle.ProcessLifecycleOwner$3)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+kotlinx.coroutines.channels.AbstractSendChannel
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowShuffleButton(boolean)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy[] values()
+androidx.window.layout.SidecarWindowBackend: void setWindowExtension(androidx.window.layout.ExtensionInterfaceCompat)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.ExtensionsWindowLayoutInfoAdapter INSTANCE
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.EmbeddingInterfaceCompat initAndVerifyEmbeddingExtension()
+androidx.window.layout.FoldingFeature$OcclusionType
+androidx.window.layout.FoldingFeature$OcclusionType$Companion
+androidx.window.layout.SidecarCompat: java.util.Map access$getWindowListenerRegisteredContexts$p(androidx.window.layout.SidecarCompat)
+androidx.window.layout.SidecarAdapter$Companion: androidx.window.layout.DisplayFeature translate$window_release(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.core.Bounds: java.lang.String toString()
+androidx.window.R$attr: int placeholderActivityName
+com.google.common.collect.Iterators$EmptyModifiableIterator: com.google.common.collect.Iterators$EmptyModifiableIterator[] values()
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+androidx.window.layout.WindowMetricsCalculator$Companion: void reset()
+androidx.window.layout.SidecarWindowBackend: boolean DEBUG
+io.flutter.plugins.GeneratedPluginRegistrant
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+com.google.android.exoplayer2.source.TrackGroup: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.StyledPlayerView: android.widget.FrameLayout getOverlayFrameLayout()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+androidx.recyclerview.widget.RecyclerView: void setOnScrollListener(androidx.recyclerview.widget.RecyclerView$OnScrollListener)
+kotlin.jvm.internal.FunctionReference: boolean isExternal()
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.spherical.SphericalGLSurfaceView
+androidx.window.R$styleable: int[] SplitPairFilter
+androidx.window.embedding.ActivityRule: boolean equals(java.lang.Object)
+androidx.window.embedding.ActivityFilter: int hashCode()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.reflect.Method preHandler()
+androidx.window.core.Version: java.lang.String description
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowMultiWindowTimeBar(boolean)
+kotlinx.coroutines.android.HandlerContext
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: int label
+androidx.recyclerview.widget.RecyclerView: void setRecyclerListener(androidx.recyclerview.widget.RecyclerView$RecyclerListener)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerView: com.google.android.exoplayer2.ui.SubtitleView getSubtitleView()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+androidx.core.view.ViewCompat$Api17Impl: boolean isPaddingRelative(android.view.View)
+android.support.v4.media.MediaMetadataCompat
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+android.support.v4.media.RatingCompat
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowSubtitleButton(boolean)
+com.google.android.exoplayer2.ui.PlayerView: void setRewindIncrementMs(int)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.WeakHashMap mActivityWindowLayoutInfo
+androidx.core.view.ViewCompat$Api19Impl: void setAccessibilityLiveRegion(android.view.View,int)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+androidx.window.layout.WindowMetricsCalculator$Companion: kotlin.jvm.functions.Function1 decorator
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State HALF_OPENED
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KType getReturnType()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+androidx.core.view.ViewCompat$Api26Impl: boolean hasExplicitFocusable(android.view.View)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewAttachedToWindow(android.view.View)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.core.view.ViewCompat$Api26Impl: void setAutofillHints(android.view.View,java.lang.String[])
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+me.carda.awesome_notifications.notifications.enumerators.NotificationPermission: me.carda.awesome_notifications.notifications.enumerators.NotificationPermission valueOf(java.lang.String)
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: android.app.Activity activity
+androidx.window.core.Version: java.lang.String VERSION_PATTERN_STRING
+androidx.window.layout.SidecarCompat$DistinctElementCallback: SidecarCompat$DistinctElementCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock globalLock
+com.google.android.exoplayer2.metadata.icy.IcyInfo: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+androidx.media.AudioAttributesImplApi21Parcelizer
+com.google.common.reflect.Types$JavaVersion: com.google.common.reflect.Types$JavaVersion[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+me.leolin.shortcutbadger.impl.AdwHomeBadger
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component1(android.util.Pair)
+kotlinx.coroutines.CompletionHandlerBase
+androidx.window.layout.SidecarWindowBackend$Companion: void resetInstance()
+androidx.window.layout.SidecarCompat: java.lang.String TAG
+androidx.window.layout.SidecarCompat$TranslatingCallback
+com.google.android.exoplayer2.ui.StyledPlayerControlView: boolean getShowVrButton()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+androidx.core.view.ViewCompat$Api26Impl: int getNextClusterForwardId(android.view.View)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+com.google.android.exoplayer2.ui.StyledPlayerView: android.graphics.drawable.Drawable getDefaultArtwork()
+me.carda.awesome_notifications.notifications.enumerators.DefaultRingtoneType: me.carda.awesome_notifications.notifications.enumerators.DefaultRingtoneType[] values()
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String toString()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type type
+com.google.android.exoplayer2.ui.PlayerView: android.view.View getVideoSurfaceView()
+kotlin.jvm.internal.CallableReference: java.lang.String name
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsIceCreamSandwich$window_release(android.app.Activity)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,boolean)
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend access$getGlobalInstance$cp()
+me.carda.awesome_notifications.notifications.enumerators.ActionButtonType: me.carda.awesome_notifications.notifications.enumerators.ActionButtonType valueOf(java.lang.String)
+kotlinx.coroutines.channels.AbstractChannel
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+com.google.android.exoplayer2.ui.SubtitleView: void setApplyEmbeddedFontSizes(boolean)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+kotlin.jvm.internal.FunctionReference: java.lang.String toString()
+androidx.recyclerview.widget.LinearLayoutManager: LinearLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.core.view.ViewCompat$Api19Impl: int getAccessibilityLiveRegion(android.view.View)
+androidx.window.R$styleable: int SplitPairRule_splitLayoutDirection
+androidx.window.R$id: int ltr
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.core.Bounds: Bounds(android.graphics.Rect)
+androidx.window.embedding.SplitController: void access$setStaticSplitRules(androidx.window.embedding.SplitController,java.util.Set)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+kotlin.jvm.internal.FunctionReference: boolean isInline()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend globalInstance
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.window.R$styleable: int ActivityFilter_activityName
+com.google.android.exoplayer2.ui.StyledPlayerView: void setErrorMessageProvider(com.google.android.exoplayer2.util.ErrorMessageProvider)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+androidx.window.layout.SidecarCompat$TranslatingCallback: SidecarCompat$TranslatingCallback(androidx.window.layout.SidecarCompat)
+androidx.window.embedding.ActivityRule: java.util.Set filters
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String description
+androidx.core.view.ViewCompat$Api19Impl: void setContentChangeTypes(android.view.accessibility.AccessibilityEvent,int)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: BaseContinuationImpl(kotlin.coroutines.Continuation)
+androidx.window.embedding.SplitInfo
+androidx.core.content.ContextCompat$Api19Impl: java.io.File[] getExternalCacheDirs(android.content.Context)
+com.google.android.exoplayer2.ui.PlayerView: void setShowBuffering(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+me.carda.awesome_notifications.notifications.enumerators.ActionButtonType: me.carda.awesome_notifications.notifications.enumerators.ActionButtonType[] values()
+androidx.window.embedding.SplitRule$Api30Impl: android.graphics.Rect getBounds(android.view.WindowMetrics)
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable computeReflected()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KVisibility getVisibility()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairRule parseSplitPairRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateIntentPredicates(java.util.Set)
+androidx.window.R$id
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowRewindButton(boolean)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy valueOf(java.lang.String)
+androidx.window.R$styleable: int ActivityFilter_activityAction
+me.carda.awesome_notifications.notifications.enumerators.NotificationPermission: me.carda.awesome_notifications.notifications.enumerators.NotificationPermission[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.window.core.Version: androidx.window.core.Version VERSION_0_1
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getPrimaryActivityStack()
+androidx.window.layout.SidecarWindowBackend
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: androidx.window.layout.SidecarWindowBackend this$0
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable getReflected()
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set getFilters()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPlaceholderRule parseSplitPlaceholderRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.R$attr: int splitMinSmallestWidth
+kotlin.jvm.internal.CallableReference: java.lang.Object getBoundReceiver()
+androidx.window.embedding.MatcherUtils
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout: int getResizeMode()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void setLastInfo(androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController globalInstance
+androidx.window.layout.WindowInfoTracker: androidx.window.layout.WindowInfoTracker$Companion Companion
+androidx.recyclerview.widget.RecyclerView: void setLayoutFrozen(boolean)
+androidx.window.layout.SidecarWindowBackend: void getWindowLayoutChangeCallbacks$annotations()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity activity
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.Object createParams
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation$Companion Companion
+androidx.window.layout.HardwareFoldingFeature: androidx.window.core.Bounds featureBounds
+androidx.window.core.Version: androidx.window.core.Version VERSION_1_0
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+androidx.window.layout.WindowMetricsCalculatorCompat
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+androidx.core.app.RemoteActionCompatParcelizer
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+kotlinx.coroutines.internal.LockFreeLinkedListNode$CondAddOp
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept(androidx.window.layout.WindowLayoutInfo)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: androidx.window.layout.WindowLayoutInfo lastKnownValue
+androidx.core.view.ViewCompat$Api26Impl: void setTooltipText(android.view.View,java.lang.CharSequence)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key getKey()
+androidx.core.view.ViewCompat$Api16Impl: int getWindowSystemUiVisibility(android.view.View)
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock globalLock
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+androidx.recyclerview.widget.StaggeredGridLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect currentWindowBounds(android.app.Activity)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+com.google.android.exoplayer2.ui.SubtitleView: java.util.List getCuesWithStylingPreferencesApplied()
+androidx.window.R$styleable: int[] ActivityRule
+com.google.android.exoplayer2.ui.SubtitleView: void setStyle(com.google.android.exoplayer2.text.CaptionStyleCompat)
+com.google.android.exoplayer2.ui.PlayerView: void setControllerHideDuringAds(boolean)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+androidx.window.layout.WindowMetricsCalculator$Companion: WindowMetricsCalculator$Companion()
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+androidx.window.core.Version: androidx.window.core.Version access$getCURRENT$cp()
+androidx.window.layout.HardwareFoldingFeature$Companion
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowRewindButton(boolean)
+androidx.core.view.ViewCompat$Api16Impl: void setBackground(android.view.View,android.graphics.drawable.Drawable)
+androidx.window.layout.FoldingFeature: boolean isSeparating()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,kotlin.reflect.KDeclarationContainer,java.lang.String,java.lang.String)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeatures(java.util.List,java.util.List)
+androidx.window.layout.SidecarCompat
+com.google.android.exoplayer2.ui.PlayerView: android.widget.FrameLayout getOverlayFrameLayout()
+kotlinx.coroutines.JobSupport$addLastAtomic$$inlined$addLastIf$1
+me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshSchedulesReceiver
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+com.google.android.exoplayer2.ui.PlayerView: void setVisibility(int)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext minusKey(kotlin.coroutines.CoroutineContext$Key)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+androidx.window.R$attr: R$attr()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: com.google.android.exoplayer2.Player getPlayer()
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+kotlin.jvm.internal.CallableReference: java.lang.Object call(java.lang.Object[])
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void removeListener(androidx.core.util.Consumer)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.FoldingFeature
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+com.google.android.exoplayer2.ui.TrackSelectionView: void setShowDisableOption(boolean)
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion()
+androidx.window.embedding.ActivityFilter: boolean equals(java.lang.Object)
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy[] values()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowFastForwardButton(boolean)
+io.flutter.plugin.platform.SingleViewPresentation
+androidx.window.layout.WindowMetrics: boolean equals(java.lang.Object)
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowPreviousButton(boolean)
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+androidx.recyclerview.widget.RecyclerView: void setScrollingTouchSlop(int)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type FOLD
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControllerHideDuringAds(boolean)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+com.google.android.exoplayer2.ui.PlayerControlView: int getShowTimeoutMs()
+com.google.android.exoplayer2.metadata.flac.VorbisComment: android.os.Parcelable$Creator CREATOR
+androidx.window.core.Version: java.lang.String toString()
+androidx.window.R$styleable: int SplitPairRule_splitMinSmallestWidth
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.window.core.Version$Companion: Version$Companion()
+androidx.window.R$attr: int secondaryActivityName
+com.google.android.exoplayer2.ui.PlayerView: android.view.ViewGroup getAdViewGroup()
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.WeakHashMap activityWindowLayoutInfo
+androidx.window.embedding.ExtensionEmbeddingBackend: void access$setGlobalInstance$cp(androidx.window.embedding.ExtensionEmbeddingBackend)
+androidx.window.embedding.SplitController$Companion: androidx.window.embedding.SplitController getInstance()
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarInterface$SidecarCallback callbackInterface
+com.google.android.exoplayer2.ui.StyledPlayerView: void setUseArtwork(boolean)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$LayoutManager getLayoutManager()
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_1_0$cp()
+kotlinx.coroutines.StandaloneCoroutine
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.window.core.Version: androidx.window.core.Version access$getUNKNOWN$cp()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlinx.coroutines.flow.Flow $flow
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invokeSuspend(java.lang.Object)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformViewFactory,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,java.lang.Object,android.view.View$OnFocusChangeListener)
+kotlinx.coroutines.scheduling.WorkQueue
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: androidx.window.extensions.layout.WindowLayoutComponent component
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent placeholderIntent
+androidx.media.AudioAttributesImplBase
+kotlinx.coroutines.scheduling.CoroutineScheduler
+androidx.window.embedding.ActivityFilter: java.lang.String intentAction
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void onSplitInfoChanged(java.util.List)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.recyclerview.widget.RecyclerView: boolean getPreserveFocusAfterLayout()
+androidx.window.embedding.SplitController: java.util.Set getSplitRules()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key key
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+androidx.window.embedding.SplitController: androidx.window.embedding.EmbeddingBackend embeddingBackend
+com.google.android.exoplayer2.ui.TrackSelectionView: boolean getIsDisabled()
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+androidx.window.layout.WindowMetricsCalculatorDecorator: androidx.window.layout.WindowMetricsCalculator decorate(androidx.window.layout.WindowMetricsCalculator)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+com.google.android.exoplayer2.metadata.id3.PrivFrame: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+com.google.android.exoplayer2.ui.StyledPlayerView: com.google.android.exoplayer2.Player getPlayer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Point getRealSizeForDisplay$window_release(android.view.Display)
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+androidx.window.R$styleable: R$styleable()
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformViewFactory viewFactory
+androidx.window.layout.ActivityCompatHelperApi24
+androidx.core.view.ViewCompat$Api26Impl: boolean isFocusedByDefault(android.view.View)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout: AspectRatioFrameLayout(android.content.Context,android.util.AttributeSet)
+androidx.window.embedding.SplitPairRule: int hashCode()
+androidx.window.embedding.SplitController
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: android.app.Activity activity
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onLowMemory()
+com.google.android.exoplayer2.ui.PlayerControlView
+androidx.recyclerview.widget.RecyclerView: void suppressLayout(boolean)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+androidx.window.embedding.ActivityRule: boolean alwaysExpand
+kotlin.jvm.internal.CallableReference: java.lang.Class owner
+kotlin.jvm.internal.Lambda: Lambda(int)
+androidx.window.embedding.SplitPairFilter: int hashCode()
+androidx.window.R$styleable: int[] SplitPairRule
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer getCallback()
+androidx.window.embedding.EmptyEmbeddingComponent: EmptyEmbeddingComponent()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.lifecycle.SavedStateHandleController$1
+androidx.core.content.FileProvider: FileProvider()
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+androidx.window.embedding.SplitPairFilter
+me.leolin.shortcutbadger.impl.XiaomiHomeBadger
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter
+com.google.android.exoplayer2.ui.PlayerView: java.util.List getAdOverlayInfos()
+androidx.window.R: R()
+androidx.window.embedding.ActivityFilter: android.content.ComponentName componentName
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.SidecarWindowBackend getInstance(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+androidx.window.layout.SidecarCompat: void registerConfigurationChangeListener(android.app.Activity)
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.recyclerview.widget.RecyclerView: void setRecycledViewPool(androidx.recyclerview.widget.RecyclerView$RecycledViewPool)
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.window.embedding.SplitRule: int minSmallestWidth
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void setLastInfo(java.util.List)
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator$Companion $$INSTANCE
+androidx.recyclerview.widget.RecyclerView
+androidx.lifecycle.ProcessLifecycleOwnerInitializer
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+com.google.android.exoplayer2.ui.PlayerView: com.google.android.exoplayer2.ui.SubtitleView getSubtitleView()
+com.google.android.exoplayer2.ui.PlayerControlView: int getRepeatToggleModes()
+com.google.android.exoplayer2.ui.spherical.SphericalGLSurfaceView: void setSingleTapListener(com.google.android.exoplayer2.ui.spherical.SingleTapListener)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: android.app.Activity $activity
+kotlin.jvm.internal.CallableReference: java.util.List getParameters()
+kotlinx.coroutines.JobImpl
+androidx.core.content.ContextCompat$Api19Impl: java.io.File[] getObbDirs(android.content.Context)
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+androidx.recyclerview.widget.RecyclerView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.WindowMetrics: androidx.window.core.Bounds _bounds
+androidx.window.layout.WindowMetricsCalculatorCompat: WindowMetricsCalculatorCompat()
+androidx.window.core.Version: int patch
+kotlinx.coroutines.channels.Closed
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityIntentPredicates$lambda-3(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.PlayerView: void setPlaybackPreparer(com.google.android.exoplayer2.PlaybackPreparer)
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend access$getWindowBackend$p(androidx.window.layout.WindowInfoTrackerImpl)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+androidx.window.R$attr: int alwaysExpand
+androidx.lifecycle.ProcessLifecycleOwner$3: void onActivityStopped(android.app.Activity)
+com.google.android.exoplayer2.ui.PlayerControlView: void setProgressUpdateListener(com.google.android.exoplayer2.ui.PlayerControlView$ProgressUpdateListener)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+me.leolin.shortcutbadger.impl.AdwHomeBadger: AdwHomeBadger()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat(androidx.window.extensions.embedding.ActivityEmbeddingComponent,androidx.window.embedding.EmbeddingAdapter)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: int label
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: WindowMetricsCalculator$Companion$reset$1()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArraySet splitRules
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setRepeatToggleModes(int)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+kotlinx.coroutines.CancelledContinuation: int _resumed
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+com.google.android.exoplayer2.ui.TrackSelectionView: java.util.List getOverrides()
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$ItemAnimator getItemAnimator()
+com.google.android.exoplayer2.ui.PlayerView: void setControllerVisibilityListener(com.google.android.exoplayer2.ui.PlayerControlView$VisibilityListener)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDeviceState(androidx.window.sidecar.SidecarDeviceState,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.embedding.EmbeddingCompat: java.lang.String TAG
+androidx.window.embedding.SplitPairFilter: java.lang.String toString()
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.layout.WindowInfoTracker: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.window.layout.FoldingFeature$State
+androidx.window.layout.HardwareFoldingFeature$Companion: void validateFeatureBounds$window_release(androidx.window.core.Bounds)
+com.google.android.exoplayer2.ui.StyledPlayerView: boolean getUseController()
+androidx.core.view.ViewCompat$Api26Impl: void addKeyboardNavigationClusters(android.view.View,java.util.Collection,int)
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitRules$window_release(android.content.Context,int)
+androidx.recyclerview.widget.RecyclerView: void setAccessibilityDelegateCompat(androidx.recyclerview.widget.RecyclerViewAccessibilityDelegate)
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+kotlin.jvm.internal.FunctionReference: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+androidx.window.embedding.EmbeddingBackend: boolean isSplitSupported()
+androidx.window.R$attr: int primaryActivityName
+androidx.customview.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.window.embedding.SplitController: void clearRegisteredRules()
+androidx.core.view.ViewCompat$Api16Impl: void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+androidx.window.embedding.SplitRule$LayoutDir
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: ExtensionsWindowLayoutInfoAdapter()
+androidx.lifecycle.DefaultLifecycleObserver
+io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus: io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus[] values()
+me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver: DismissedNotificationReceiver()
+androidx.window.layout.FoldingFeature$OcclusionType: FoldingFeature$OcclusionType(java.lang.String)
+androidx.window.layout.SidecarAdapter: androidx.window.layout.WindowLayoutInfo translate(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarDeviceState)
+com.google.android.exoplayer2.metadata.mp4.SlowMotionData$Segment: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitRule: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: WindowMetricsCalculator$Companion$overrideDecorator$1(java.lang.Object)
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+io.flutter.embedding.android.FlutterView
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl splitInfoEmbeddingCallback
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarWindowLayoutInfo(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.SplitRule: int layoutDirection
+androidx.window.embedding.ActivityStack: boolean isEmpty()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.concurrent.locks.ReentrantLock extensionWindowBackendLock
+androidx.window.core.Version: androidx.window.core.Version parse(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerView: boolean getUseArtwork()
+kotlinx.coroutines.internal.LockFreeLinkedListHead
+androidx.window.embedding.ExtensionEmbeddingBackend: ExtensionEmbeddingBackend(androidx.window.embedding.EmbeddingInterfaceCompat)
+androidx.window.embedding.SplitController: boolean isSplitSupported()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getSecondaryActivityStack()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.Set getSplitRules()
+com.google.android.exoplayer2.ui.StyledPlayerView: void setUseSensorRotation(boolean)
+androidx.window.embedding.SplitInfo: SplitInfo(androidx.window.embedding.ActivityStack,androidx.window.embedding.ActivityStack,float)
+androidx.core.view.ViewCompat$Api16Impl: void setImportantForAccessibility(android.view.View,int)
+com.google.android.exoplayer2.metadata.dvbsi.AppInfoTable: android.os.Parcelable$Creator CREATOR
+androidx.core.view.ViewCompat$Api26Impl: int getImportantForAutofill(android.view.View)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+com.google.android.exoplayer2.metadata.id3.ChapterTocFrame: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.window.embedding.EmbeddingAdapter: EmbeddingAdapter()
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addListener(java.util.concurrent.Executor,androidx.core.util.Consumer,kotlinx.coroutines.flow.Flow)
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList getWindowLayoutChangeCallbacks()
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getHINGE$cp()
+com.google.android.exoplayer2.metadata.id3.GeobFrame: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: ExtensionWindowLayoutInfoBackend(androidx.window.extensions.layout.WindowLayoutComponent)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Companion Companion
+androidx.window.layout.HardwareFoldingFeature: java.lang.String toString()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack primaryActivityStack
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion()
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+kotlinx.coroutines.ChildContinuation
+android.support.v4.media.session.MediaSessionCompat$Token
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_0_1()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int)
+androidx.window.embedding.ExtensionEmbeddingBackend
+androidx.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.core.Version$bigInteger$2
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+androidx.window.layout.WindowMetrics: java.lang.String toString()
+androidx.core.view.ViewCompat$Api19Impl: boolean isLayoutDirectionResolved(android.view.View)
+kotlinx.coroutines.channels.LinkedListChannel
+com.google.android.exoplayer2.video.VideoDecoderGLSurfaceView: com.google.android.exoplayer2.video.VideoDecoderOutputBufferRenderer getVideoDecoderOutputBufferRenderer()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.window.embedding.ActivityStack: java.lang.String toString()
+kotlinx.coroutines.internal.LockFreeLinkedListNode
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.view.ViewCompat$Api26Impl: void setKeyboardNavigationCluster(android.view.View,boolean)
+androidx.window.layout.WindowLayoutInfo: java.util.List displayFeatures
+com.google.android.exoplayer2.ui.PlayerView: void setControllerShowTimeoutMs(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController getInstance()
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext plus(kotlin.coroutines.CoroutineContext)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object)
+kotlinx.coroutines.CancellableContinuationImpl: int _decision
+androidx.window.layout.ActivityCompatHelperApi24: ActivityCompatHelperApi24()
+androidx.recyclerview.widget.RecyclerView: void setChildDrawingOrderCallback(androidx.recyclerview.widget.RecyclerView$ChildDrawingOrderCallback)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingAdapter adapter
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State$Companion Companion
+androidx.window.embedding.SplitInfo: java.lang.String toString()
+com.google.android.exoplayer2.source.smoothstreaming.SsMediaSource$Factory: SsMediaSource$Factory(com.google.android.exoplayer2.upstream.DataSource$Factory)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlayerMethods: me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlayerMethods[] values()
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+androidx.window.embedding.SplitController: java.util.Set staticSplitRules
+kotlinx.coroutines.CommonPool: java.util.concurrent.Executor pool
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetricsCalculatorCompat INSTANCE
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+androidx.window.R$styleable: int SplitPairFilter_primaryActivityName
+me.sithiramunasinghe.flutter.flutter_radio_player.FlutterRadioPlayerPlugin$onAttachedToActivity$1: void onDestroy()
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1
+androidx.core.view.ViewCompat$Api16Impl: void requestFitSystemWindows(android.view.View)
+me.leolin.shortcutbadger.impl.SonyHomeBadger
+com.google.common.collect.Iterators$EmptyModifiableIterator: com.google.common.collect.Iterators$EmptyModifiableIterator valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+androidx.window.embedding.EmbeddingCompat: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingExtension
+androidx.window.embedding.MatcherUtils: boolean areActivityOrIntentComponentsMatching$window_release(android.app.Activity,android.content.ComponentName)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.lang.String TAG
+androidx.window.core.Version: java.lang.String getDescription()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+android.support.v4.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State state
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitInfo: int hashCode()
+androidx.core.graphics.drawable.IconCompatParcelizer
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+com.google.android.exoplayer2.ui.PlayerView: void setDefaultArtwork(android.graphics.drawable.Drawable)
+androidx.media.AudioAttributesImpl
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+kotlinx.coroutines.internal.ThreadSafeHeap
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: androidx.window.layout.SidecarCompat this$0
+androidx.media.AudioAttributesImplApi21
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1
+com.google.android.exoplayer2.ui.SubtitleView: void setCues(java.util.List)
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControlDispatcher(com.google.android.exoplayer2.ControlDispatcher)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.recyclerview.widget.RecyclerView: java.lang.CharSequence getAccessibilityClassName()
+kotlinx.coroutines.InvokeOnCompletion
+com.google.android.exoplayer2.ui.StyledPlayerView: void setKeepContentOnPlayerReset(boolean)
+androidx.window.layout.WindowLayoutInfo: boolean equals(java.lang.Object)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.String toString()
+com.google.android.exoplayer2.ui.StyledPlayerView: android.view.ViewGroup getAdViewGroup()
+me.leolin.shortcutbadger.impl.NovaHomeBadger
+androidx.fragment.app.Fragment$2
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+androidx.window.embedding.SplitRuleParser: SplitRuleParser()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+com.google.android.exoplayer2.ui.SubtitleView: void setApplyEmbeddedStyles(boolean)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+androidx.core.view.ViewCompat$Api16Impl: android.view.ViewParent getParentForAccessibility(android.view.View)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: androidx.core.util.Consumer $consumer$inlined
+com.google.android.exoplayer2.upstream.RawResourceDataSource
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+androidx.window.core.Bounds: int getBottom()
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.PlayerView: void setRepeatToggleModes(int)
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.window.embedding.EmbeddingAdapter: boolean translateParentMetricsPredicate$lambda-4(androidx.window.embedding.SplitRule,android.view.WindowMetrics)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateParentMetricsPredicate(androidx.window.embedding.SplitRule)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: WindowInfoTrackerCallbackAdapter(androidx.window.layout.WindowInfoTracker)
+androidx.lifecycle.ProcessLifecycleOwner$3$1
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.layout.ActivityCompatHelperApi30: androidx.window.layout.ActivityCompatHelperApi30 INSTANCE
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setUseController(boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.window.layout.SidecarCompat: boolean validateExtensionInterface()
+io.flutter.view.FlutterCallbackInformation
+androidx.media.AudioAttributesCompatParcelizer
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String description
+androidx.window.layout.SidecarWindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.window.embedding.SplitController: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+androidx.recyclerview.widget.RecyclerView: void setLayoutManager(androidx.recyclerview.widget.RecyclerView$LayoutManager)
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(androidx.window.extensions.layout.WindowLayoutInfo)
+androidx.window.layout.ExtensionInterfaceCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+com.google.android.exoplayer2.ui.spherical.SphericalGLSurfaceView: void setVideoComponent(com.google.android.exoplayer2.Player$VideoComponent)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onConfigurationChanged(android.content.res.Configuration)
+com.google.android.exoplayer2.ui.PlayerView: void setFastForwardIncrementMs(int)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+androidx.window.embedding.SplitRule
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityIntentPair(android.app.Activity,android.content.Intent)
+androidx.window.layout.SidecarCompat: void unregisterComponentCallback(android.app.Activity)
+androidx.window.embedding.SplitController$Companion
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setPlaybackSpeed(float)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.Set registeredListeners
+androidx.window.embedding.SplitPlaceholderRule: androidx.window.embedding.SplitPlaceholderRule plus$window_release(androidx.window.embedding.ActivityFilter)
+androidx.window.embedding.SplitRule: SplitRule()
+androidx.window.embedding.SplitController: SplitController(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.exoplayer2.ui.PlayerView: boolean getControllerAutoShow()
+com.google.android.exoplayer2.metadata.mp4.SmtaMetadataEntry: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper
+androidx.window.layout.WindowInfoTrackerImpl: WindowInfoTrackerImpl(androidx.window.layout.WindowMetricsCalculator,androidx.window.layout.WindowBackend)
+androidx.window.embedding.SplitRule: int getLayoutDirection()
+androidx.annotation.Keep
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend access$getGlobalInstance$cp()
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+androidx.versionedparcelable.ParcelImpl
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.window.layout.EmptyDecorator: androidx.window.layout.EmptyDecorator INSTANCE
+androidx.window.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+androidx.window.core.Bounds: android.graphics.Rect toRect()
+androidx.recyclerview.widget.GridLayoutManager
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.core.Version: kotlin.Lazy bigInteger$delegate
+com.google.android.exoplayer2.ui.StyledPlayerView: android.view.View[] getAdOverlayViews()
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.scheduling.GlobalQueue
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry$VariantInfo: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.trackselection.DefaultTrackSelector$Parameters: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairFilter parseSplitPairFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.ExtensionInterfaceCompat initAndVerifyExtension(android.content.Context)
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType FULL
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(java.lang.Object)
+me.carda.awesome_notifications.services.ForegroundService
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityIntentPredicates(java.util.Set)
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String toString()
+com.google.android.exoplayer2.metadata.id3.BinaryFrame: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.metadata.id3.InternalFrame: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.window.embedding.SplitPairRule: boolean clearTop
+com.google.android.exoplayer2.ui.PlayerControlView: void setFastForwardIncrementMs(int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map listenerToActivity
+androidx.recyclerview.widget.RecyclerView: void setItemAnimator(androidx.recyclerview.widget.RecyclerView$ItemAnimator)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+androidx.core.view.ViewCompat$Api16Impl: int getMinimumHeight(android.view.View)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+androidx.recyclerview.widget.StaggeredGridLayoutManager: StaggeredGridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.window.layout.SidecarCompat: androidx.window.layout.WindowLayoutInfo getWindowLayoutInfo(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo getLastInfo()
+androidx.recyclerview.widget.RecyclerView: void setHasFixedSize(boolean)
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean)
+com.google.android.exoplayer2.drm.DrmInitData: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setPlayer(com.google.android.exoplayer2.Player)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList splitChangeCallbacks
+androidx.window.core.Bounds: boolean isZero()
+androidx.window.R
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetLeft(android.view.DisplayCutout)
+android.support.v4.media.session.PlaybackStateCompat
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowVrButton(boolean)
+androidx.window.core.Version: int minor
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+me.carda.awesome_notifications.notifications.enumerators.NotificationCategory: me.carda.awesome_notifications.notifications.enumerators.NotificationCategory valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.PlayerControlView: void setShowShuffleButton(boolean)
+com.google.android.exoplayer2.ui.PlayerView: void setControllerAutoShow(boolean)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: SidecarWindowBackend$ExtensionListenerImpl(androidx.window.layout.SidecarWindowBackend)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map activityToListeners
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.window.core.Bounds: int right
+androidx.window.layout.SidecarWindowBackend: void callbackRemovedForActivity(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend$Companion
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsN$window_release(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State FLAT
+androidx.window.embedding.ActivityStack: java.util.List getActivities$window_release()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setAnimationEnabled(boolean)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.TrackSelectionView: TrackSelectionView(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPairPredicates$lambda-1(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+com.google.android.exoplayer2.ui.PlayerView: void setShowRewindButton(boolean)
+androidx.window.embedding.SplitRule$Api30Impl: androidx.window.embedding.SplitRule$Api30Impl INSTANCE
+kotlin.jvm.internal.CallableReference: boolean isSuspend()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.ExtensionEmbeddingBackend getInstance()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.window.R$id: int locale
+com.google.android.exoplayer2.ui.PlayerView: int getResizeMode()
+androidx.core.view.ViewCompat$Api17Impl: int getPaddingStart(android.view.View)
+me.carda.awesome_notifications.notifications.enumerators.MediaSource: me.carda.awesome_notifications.notifications.enumerators.MediaSource[] values()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+kotlin.jvm.internal.FunctionReference: int arity
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+androidx.window.core.Version: boolean equals(java.lang.Object)
+kotlinx.coroutines.JobSupport$Finishing
+androidx.window.layout.SidecarAdapter$Companion
+androidx.window.layout.WindowLayoutInfo: java.util.List getDisplayFeatures()
+androidx.window.layout.WindowInfoTracker$Companion: WindowInfoTracker$Companion()
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+com.google.android.exoplayer2.ui.TrackSelectionView: void setAllowAdaptiveSelections(boolean)
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+androidx.core.view.ViewCompat$Api16Impl: int getImportantForAccessibility(android.view.View)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$OnFlingListener getOnFlingListener()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowTimeoutMs(int)
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.google.android.exoplayer2.ui.PlayerView: android.graphics.drawable.Drawable getDefaultArtwork()
+com.google.android.exoplayer2.ui.PlayerControlView: void setVrButtonListener(android.view.View$OnClickListener)
+androidx.window.R$attr: int splitRatio
+androidx.window.layout.WindowInfoTrackerImpl
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowMetricsCalculator windowMetricsCalculator
+me.carda.awesome_notifications.notifications.enumerators.NotificationImportance: me.carda.awesome_notifications.notifications.enumerators.NotificationImportance valueOf(java.lang.String)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.concurrent.locks.ReentrantLock multicastConsumerLock
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+io.flutter.embedding.engine.FlutterJNI
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: WindowMetricsCalculator$Companion$decorator$1()
+androidx.window.R$attr: int splitLayoutDirection
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver
+androidx.media.AudioAttributesImplApi21: AudioAttributesImplApi21()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getFOLD$cp()
+androidx.core.view.ViewCompat$Api17Impl: void setLayoutDirection(android.view.View,int)
+kotlin.jvm.internal.CallableReference: CallableReference()
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+androidx.savedstate.Recreator
+me.leolin.shortcutbadger.impl.NewHtcHomeBadger: NewHtcHomeBadger()
+androidx.window.embedding.EmbeddingInterfaceCompat: void setSplitRules(java.util.Set)
+com.google.android.exoplayer2.ui.SubtitleView: com.google.android.exoplayer2.text.CaptionStyleCompat getUserCaptionStyle()
+me.leolin.shortcutbadger.impl.DefaultBadger: DefaultBadger()
+androidx.core.view.ViewCompat$Api16Impl: int getMinimumWidth(android.view.View)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControllerOnFullScreenModeChangedListener(com.google.android.exoplayer2.ui.StyledPlayerControlView$OnFullScreenModeChangedListener)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker
+com.google.android.exoplayer2.ui.PlayerView
+androidx.window.R$attr: int splitMinWidth
+com.usound.radio.usoundradio.MainActivity: MainActivity()
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+androidx.window.core.Version: androidx.window.core.Version CURRENT
+kotlinx.coroutines.JobSupport
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+androidx.recyclerview.widget.RecyclerView: void setPreserveFocusAfterLayout(boolean)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+kotlin.jvm.internal.Lambda: java.lang.String toString()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer getCallback()
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.JobSupport$ChildCompletion
+androidx.window.embedding.EmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+kotlin.jvm.internal.Lambda: int arity
+kotlinx.coroutines.CompletedExceptionally: int _handled
+kotlin.jvm.internal.CallableReference: boolean isOpen()
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController access$getGlobalInstance$cp()
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: void invokeSuspend$lambda-0(kotlinx.coroutines.channels.Channel,androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void addListener(androidx.core.util.Consumer)
+androidx.window.layout.WindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+me.leolin.shortcutbadger.impl.NovaHomeBadger: NovaHomeBadger()
+androidx.window.core.Bounds: int left
+androidx.window.embedding.ActivityRule: java.util.Set getFilters()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1
+androidx.window.layout.FoldingFeature$State$Companion
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeListener(androidx.core.util.Consumer)
+kotlinx.coroutines.internal.DispatchedContinuation
+com.google.android.exoplayer2.ui.PlayerView: void setShutterBackgroundColor(int)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setPlayer(com.google.android.exoplayer2.Player)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setControlDispatcher(com.google.android.exoplayer2.ControlDispatcher)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Class,java.lang.String,java.lang.String,int)
+androidx.core.view.ViewCompat$Api19Impl: boolean isAttachedToWindow(android.view.View)
+android.support.v4.media.MediaDescriptionCompat
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+com.google.android.exoplayer2.ui.PlayerControlView: void setRewindIncrementMs(int)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+androidx.window.embedding.EmbeddingBackend: java.util.Set getSplitRules()
+android.support.v4.media.AudioAttributesCompatParcelizer
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.window.embedding.SplitPairRule: boolean getClearTop()
+com.google.android.exoplayer2.ui.PlayerView: void setErrorMessageProvider(com.google.android.exoplayer2.util.ErrorMessageProvider)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+androidx.window.embedding.EmptyEmbeddingComponent: void setEmbeddingRules(java.util.Set)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat windowExtension
+androidx.window.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+me.carda.awesome_notifications.notifications.enumerators.NotificationLifeCycle: me.carda.awesome_notifications.notifications.enumerators.NotificationLifeCycle[] values()
+androidx.window.layout.SidecarCompat$Companion: android.os.IBinder getActivityWindowToken$window_release(android.app.Activity)
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlin.jvm.internal.CallableReference: java.lang.Object receiver
+me.carda.awesome_notifications.notifications.enumerators.GroupAlertBehaviour: me.carda.awesome_notifications.notifications.enumerators.GroupAlertBehaviour valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack secondaryActivityStack
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KFunction getReflected()
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.window.R$styleable: int SplitPairRule_clearTop
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat()
+com.google.android.exoplayer2.metadata.id3.UrlLinkFrame: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarWindowBackend: void access$setGlobalInstance$cp(androidx.window.layout.SidecarWindowBackend)
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+androidx.window.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: WindowInfoTrackerImpl$windowLayoutInfo$1(androidx.window.layout.WindowInfoTrackerImpl,android.app.Activity,kotlin.coroutines.Continuation)
+androidx.core.view.ViewCompat$Api17Impl: void setLabelFor(android.view.View,int)
+me.carda.awesome_notifications.notifications.enumerators.GroupAlertBehaviour: me.carda.awesome_notifications.notifications.enumerators.GroupAlertBehaviour[] values()
+androidx.window.embedding.SplitRule$Api30Impl: SplitRule$Api30Impl()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType$Companion Companion
+androidx.activity.ComponentActivity$2
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+androidx.window.layout.WindowInfoTracker$Companion: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+androidx.window.layout.SidecarAdapter: androidx.window.layout.SidecarAdapter$Companion Companion
+io.flutter.view.AccessibilityViewEmbedder
+androidx.window.layout.HardwareFoldingFeature: int hashCode()
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTrackerDecorator decorator
+androidx.window.embedding.ActivityFilter
+androidx.window.embedding.EmbeddingRule: EmbeddingRule()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+androidx.media.AudioAttributesImplApi26
+com.google.android.exoplayer2.ui.PlayerControlView: boolean getShowVrButton()
+androidx.window.embedding.SplitController: boolean sDebug
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.plugins.share.ShareFileProvider
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+com.google.android.exoplayer2.ui.PlayerView: void setUseArtwork(boolean)
+androidx.lifecycle.ProcessLifecycleOwner$3: void onActivityPaused(android.app.Activity)
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+com.google.android.exoplayer2.ui.StyledPlayerView: android.view.View getVideoSurfaceView()
+androidx.window.layout.WindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+androidx.window.core.Version$bigInteger$2: Version$bigInteger$2(androidx.window.core.Version)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: WindowInfoTrackerCallbackAdapter$addListener$1$1(kotlinx.coroutines.flow.Flow,androidx.core.util.Consumer,kotlin.coroutines.Continuation)
+com.google.android.exoplayer2.ui.PlayerView: int getControllerShowTimeoutMs()
+androidx.recyclerview.widget.RecyclerView: void setOnFlingListener(androidx.recyclerview.widget.RecyclerView$OnFlingListener)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type$Companion Companion
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: SidecarCompat$DistinctSidecarElementCallback(androidx.window.layout.SidecarAdapter,androidx.window.sidecar.SidecarInterface$SidecarCallback)
+androidx.window.embedding.SplitRule$Api30Impl
+androidx.core.view.ViewCompat$Api16Impl: boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+androidx.core.view.ViewCompat$Api19Impl: void notifySubtreeAccessibilityStateChanged(android.view.ViewParent,android.view.View,android.view.View,int)
+com.google.android.exoplayer2.ui.StyledPlayerView: int getControllerShowTimeoutMs()
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface getSidecar()
+androidx.lifecycle.ProcessLifecycleOwner$3$1: void onActivityPostResumed(android.app.Activity)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List getLastInfo()
+androidx.activity.ComponentActivity$3
+com.google.android.exoplayer2.metadata.icy.IcyHeaders: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPairPredicates(java.util.Set)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetBottom(android.view.DisplayCutout)
+androidx.window.layout.WindowMetrics
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: EmptyActivityLifecycleCallbacks()
+androidx.window.layout.WindowMetricsCalculatorCompat: void getRectSizeFromDisplay(android.app.Activity,android.graphics.Rect)
+androidx.window.layout.EmptyDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+androidx.core.view.ViewCompat$Api17Impl: android.view.Display getDisplay(android.view.View)
+androidx.lifecycle.SavedStateHandleController$OnRecreation
+io.flutter.embedding.android.FlutterSplashView$SavedState
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KDeclarationContainer getOwner()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: boolean getShowShuffleButton()
+androidx.window.embedding.SplitPlaceholderRule: int hashCode()
+androidx.window.core.Version$Companion: androidx.window.core.Version getCURRENT()
+kotlinx.coroutines.channels.ArrayChannel
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+androidx.window.layout.HardwareFoldingFeature: boolean isSeparating()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$2
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingCompat$Companion Companion
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.google.android.exoplayer2.ui.spherical.SphericalGLSurfaceView: void setDefaultStereoMode(int)
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.window.embedding.SplitRuleParser
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+com.google.android.exoplayer2.ui.PlayerControlView: void setControlDispatcher(com.google.android.exoplayer2.ControlDispatcher)
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.savedstate.SavedStateRegistry$1
+com.google.android.exoplayer2.ui.PlayerView: void setResizeMode(int)
+androidx.window.layout.SidecarAdapter: java.lang.String access$getTAG$cp()
+kotlinx.coroutines.DefaultExecutor
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int)
+androidx.window.layout.WindowLayoutInfo: int hashCode()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend
+androidx.window.layout.ActivityCompatHelperApi30
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlaybackStatus: me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlaybackStatus[] values()
+com.google.android.exoplayer2.ui.StyledPlayerView: void setCustomErrorMessage(java.lang.CharSequence)
+me.carda.awesome_notifications.services.ForegroundService: ForegroundService()
+androidx.window.core.Version: int getMinor()
+androidx.window.layout.SidecarCompat$TranslatingCallback: androidx.window.layout.SidecarCompat this$0
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPredicates(java.util.Set)
+kotlinx.coroutines.JobNode
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object)
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver
+com.google.android.exoplayer2.ui.PlayerView: void setCustomErrorMessage(java.lang.CharSequence)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: SidecarCompat$FirstAttachAdapter(androidx.window.layout.SidecarCompat,android.app.Activity)
+kotlinx.coroutines.InvokeOnCancelling
+androidx.window.embedding.EmbeddingCompat
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int)
+me.carda.awesome_notifications.notifications.enumerators.NotificationImportance: me.carda.awesome_notifications.notifications.enumerators.NotificationImportance[] values()
+androidx.window.R$attr: int activityName
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$1
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock globalLock
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+androidx.window.layout.FoldingFeature$State: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setPlaybackPreparer(com.google.android.exoplayer2.PlaybackPreparer)
+androidx.window.layout.FoldingFeature$State: FoldingFeature$State(java.lang.String)
+androidx.window.core.Bounds: int top
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion()
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.PlayerView: void setShowNextButton(boolean)
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+androidx.media.AudioAttributesCompat
+androidx.window.layout.DisplayFeature
+androidx.window.layout.HardwareFoldingFeature: android.graphics.Rect getBounds()
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable getReflected()
+androidx.recyclerview.widget.RecyclerView: int getItemDecorationCount()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend globalInstance
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: android.app.Activity $activity
+androidx.versionedparcelable.CustomVersionedParcelable
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowBuffering(int)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControllerVisibilityListener(com.google.android.exoplayer2.ui.StyledPlayerControlView$VisibilityListener)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: androidx.window.embedding.ExtensionEmbeddingBackend this$0
+com.google.android.exoplayer2.source.TrackGroupArray: android.os.Parcelable$Creator CREATOR
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarAdapter: java.util.List translate(java.util.List,androidx.window.sidecar.SidecarDeviceState)
+com.google.android.exoplayer2.ui.PlayerView: void setKeepContentOnPlayerReset(boolean)
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType NONE
+androidx.window.core.Version: int major
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+me.carda.awesome_notifications.notifications.enumerators.GroupSort: me.carda.awesome_notifications.notifications.enumerators.GroupSort valueOf(java.lang.String)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setShowMultiWindowTimeBar(boolean)
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetTop(android.view.DisplayCutout)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.window.embedding.SplitPairFilter: java.lang.String getSecondaryActivityIntentAction()
+androidx.media.AudioAttributesImplBase: AudioAttributesImplBase()
+androidx.window.embedding.ExtensionEmbeddingBackend: boolean isSplitSupported()
+com.google.android.exoplayer2.ui.TrackSelectionView: void setTrackNameProvider(com.google.android.exoplayer2.ui.TrackNameProvider)
+androidx.window.layout.WindowMetrics: WindowMetrics(androidx.window.core.Bounds)
+androidx.window.R$styleable: int ActivityRule_alwaysExpand
+me.carda.awesome_notifications.notifications.enumerators.NotificationLifeCycle: me.carda.awesome_notifications.notifications.enumerators.NotificationLifeCycle valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+me.carda.awesome_notifications.notifications.enumerators.MediaSource: me.carda.awesome_notifications.notifications.enumerators.MediaSource valueOf(java.lang.String)
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int)
+androidx.recyclerview.widget.RecyclerView: int getMaxFlingVelocity()
+kotlinx.coroutines.internal.ScopeCoroutine
+com.google.android.exoplayer2.video.ColorInfo: android.os.Parcelable$Creator CREATOR
+androidx.recyclerview.widget.RecyclerView: boolean getClipToPadding()
+androidx.window.layout.WindowMetricsCalculatorCompat: int getNavigationBarHeight(android.content.Context)
+com.google.android.exoplayer2.ui.StyledPlayerControlView: void setShowPreviousButton(boolean)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+androidx.window.layout.SidecarAdapter$Companion: int getSidecarDevicePosture$window_release(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion()
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean)
+com.google.android.exoplayer2.ui.StyledPlayerView: void setResizeMode(int)
+me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlayerMethods: me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlayerMethods valueOf(java.lang.String)
+kotlin.jvm.internal.CallableReference: java.lang.Object callBy(java.util.Map)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitPairRule: boolean finishSecondaryWithPrimary
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.embedding.EmbeddingCompat$Companion: java.lang.Integer getExtensionApiLevel()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+androidx.core.view.ViewCompat$Api16Impl: boolean hasTransientState(android.view.View)
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout
+androidx.window.layout.SidecarCompat$FirstAttachAdapter
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.concurrent.locks.ReentrantLock lock
+me.leolin.shortcutbadger.impl.ApexHomeBadger
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+androidx.window.embedding.MatcherUtils: boolean wildcardMatch(java.lang.String,java.lang.String)
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion()
+androidx.window.embedding.ActivityRule: boolean getAlwaysExpand()
+androidx.window.embedding.EmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.WindowInfoTrackerImpl$Companion
+androidx.window.core.Version$bigInteger$2: androidx.window.core.Version this$0
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+androidx.core.view.ViewCompat$Api17Impl: void setPaddingRelative(android.view.View,int,int,int,int)
+androidx.window.embedding.ActivityStack: java.util.List activities
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+androidx.window.embedding.ActivityStack: int hashCode()
+android.support.v4.media.AudioAttributesImplApi21Parcelizer
+com.google.android.exoplayer2.metadata.scte35.PrivateCommand: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityRule: androidx.window.embedding.ActivityRule plus$window_release(androidx.window.embedding.ActivityFilter)
+com.google.android.exoplayer2.ui.PlayerView: boolean getUseController()
+kotlin.jvm.internal.CallableReference: java.lang.String getSignature()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: androidx.window.layout.WindowInfoTrackerImpl this$0
+androidx.core.view.ViewCompat$Api16Impl: void setHasTransientState(android.view.View,boolean)
+androidx.recyclerview.widget.RecyclerView: void setClipToPadding(boolean)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept$lambda-0(androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper,androidx.window.layout.WindowLayoutInfo)
+com.google.common.reflect.Types$JavaVersion: com.google.common.reflect.Types$JavaVersion valueOf(java.lang.String)
+androidx.recyclerview.widget.RecyclerView: void setLayoutTransition(android.animation.LayoutTransition)
+androidx.window.embedding.ActivityFilter: ActivityFilter(android.content.ComponentName,java.lang.String)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: java.lang.ref.WeakReference activityWeakReference
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityRule parseSplitActivityRule(android.content.Context,android.content.res.XmlResourceParser)
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+androidx.window.R$styleable: int[] ActivityFilter
+androidx.window.core.Bounds: int hashCode()
+androidx.window.layout.SidecarCompat$Companion: androidx.window.core.Version getSidecarVersion()
+com.google.android.exoplayer2.ui.StyledPlayerView: void setVisibility(int)
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityName
+androidx.core.view.ViewCompat$Api16Impl: void postOnAnimationDelayed(android.view.View,java.lang.Runnable,long)
+androidx.window.embedding.SplitController: void access$setGlobalInstance$cp(androidx.window.embedding.SplitController)
+com.google.android.exoplayer2.source.dash.DashMediaSource$Factory
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarCompat$Companion Companion
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: java.util.concurrent.Executor executor
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.SidecarCompat$DistinctElementCallback
+com.google.android.exoplayer2.ui.StyledPlayerView: void setControllerHideOnTouch(boolean)
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController$Companion Companion
+androidx.window.layout.DisplayCompatHelperApi17: void getRealSize(android.view.Display,android.graphics.Point)
+androidx.window.embedding.SplitRule: boolean checkParentMetrics(android.view.WindowMetrics)
+com.google.android.exoplayer2.drm.DrmInitData$SchemeData: android.os.Parcelable$Creator CREATOR
+io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus: io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+com.google.android.exoplayer2.ui.StyledPlayerView: boolean getControllerHideOnTouch()
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+androidx.window.layout.WindowInfoTrackerImpl: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+kotlin.jvm.internal.FunctionReference: boolean isOperator()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+android.support.v4.media.MediaBrowserCompat$MediaItem
+android.support.v4.app.RemoteActionCompatParcelizer
+io.flutter.embedding.engine.FlutterOverlaySurface
+androidx.window.layout.HardwareFoldingFeature$Type: HardwareFoldingFeature$Type(java.lang.String)
+androidx.core.view.ViewCompat$Api16Impl: void postInvalidateOnAnimation(android.view.View)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+androidx.window.R$attr: int finishSecondaryWithPrimary
+androidx.window.core.Bounds: int getHeight()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.lifecycle.ProcessLifecycleOwner$3: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.window.embedding.EmbeddingBackend: void setSplitRules(java.util.Set)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+androidx.window.layout.DisplayCompatHelperApi17
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.Map consumerToJobMap
+androidx.recyclerview.widget.LinearLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.StyledPlayerControlView
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityFilter parseActivityFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.core.view.ViewCompat$Api26Impl: void setFocusedByDefault(android.view.View,boolean)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+com.google.android.exoplayer2.ui.PlayerView: void setUseController(boolean)
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+androidx.window.layout.DisplayCompatHelperApi28: androidx.window.layout.DisplayCompatHelperApi28 INSTANCE
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.google.android.exoplayer2.ui.StyledPlayerView: int getResizeMode()
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.recyclerview.widget.RecyclerView: int getBaseline()
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface access$getExtensionCallback$p(androidx.window.layout.SidecarCompat)
+com.google.android.exoplayer2.source.smoothstreaming.SsMediaSource$Factory
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo,java.util.List)
+com.google.android.exoplayer2.metadata.scte35.TimeSignalCommand: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.ui.PlayerControlView: boolean getShowShuffleButton()
+me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlaybackStatus: me.sithiramunasinghe.flutter.flutter_radio_player.core.enums.PlaybackStatus valueOf(java.lang.String)
+androidx.window.embedding.SplitPairRule: androidx.window.embedding.SplitPairRule plus$window_release(androidx.window.embedding.SplitPairFilter)
+com.google.android.exoplayer2.ui.SubtitleView: float getUserCaptionFontScale()
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int,kotlin.coroutines.Continuation)
+com.google.android.exoplayer2.source.dash.DashMediaSource$Factory: DashMediaSource$Factory(com.google.android.exoplayer2.upstream.DataSource$Factory)
+kotlin.jvm.internal.Lambda: int getArity()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: androidx.core.util.Consumer $consumer
+kotlin.jvm.internal.CallableReference: java.lang.Object NO_RECEIVER
+me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver: ScheduledNotificationReceiver()
+androidx.window.embedding.ExtensionEmbeddingBackend: void setSplitRules(java.util.Set)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.WindowLayoutInfo translate$window_release(android.app.Activity,androidx.window.extensions.layout.WindowLayoutInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat getEmbeddingExtension()
+androidx.window.core.Version$Companion: androidx.window.core.Version getUNKNOWN()
+io.flutter.embedding.android.FlutterTextureView
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsQ$window_release(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend: SidecarWindowBackend(androidx.window.layout.ExtensionInterfaceCompat)
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface

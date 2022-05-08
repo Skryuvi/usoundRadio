@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":flutter_radio_player" external.linked.project.path="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="me.sithiramunasinghe.flutter.flutter_radio_player" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":flutter_radio_player" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.0" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/flutter_radio_player/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/flutter_radio_player/intermediates/compile_r_class_jar/debug/R.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/662981e48163a910b9927d50f7e1d170/jetified-flutter.jar:/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/flutter_plugin_android_lifecycle/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/683663af7f57bd6294cdde4a7b85f03a/jetified-flutter_embedding_debug-1.0.0-57d3bac3dd5cb5b0e464ab70e7bc8a0d8cf083ab.jar:/Users/ilagordinov/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/2ac60fabb5652f86be0f2a0719480dd6/fragment-1.1.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/f7f924606537f02aee578a7699cb248c/jetified-extension-mediasession-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/1bd0eaf3876a231affaf8da2406a914d/jetified-exoplayer-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/56e363090a3edc3011927c6b86b4fd60/jetified-exoplayer-ui-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c7520893df6ac727886c3349fd1fd8a5/media-1.2.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/1cc7313a03d846a8202f7b859298df3b/viewpager-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/115885044bef09994003decaba15aeb3/loader-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/6723ab5636e4b18dcf4b33ac2e45fe00/jetified-activity-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/8f1eefdd2ea4a8ead4168630a971f1a6/customview-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/3ee3423c7d5822a457d7ae4bd3b6f1f1/core-1.6.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/08fd8ccc55332fa31229bf5ad74435a8/lifecycle-runtime-2.2.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/a813ccee48ff9d14eb398bff97716e51/jetified-savedstate-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/f261bb0cbcaedb500be6cc0aef5b44c9/lifecycle-livedata-2.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5f9b82cf1c8dfcbc1fd082c014c1f679/lifecycle-livedata-core-2.0.0-api.jar:/Users/ilagordinov/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/c94b4838c728831a64b1295485eb4164/localbroadcastmanager-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/6bc5b7d1eef5b1466739f7c87af558db/core-runtime-2.0.0-api.jar:/Users/ilagordinov/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/543451dc22bf75af686bddc6f40cc391/versionedparcelable-1.1.1-api.jar:/Users/ilagordinov/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/b8da9cf58829a4e5da7ab39fcad9535e/lifecycle-viewmodel-2.1.0-api.jar:/Users/ilagordinov/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/eb9cc924bbfeb7c9df7d97b782ff1243/jetified-annotation-experimental-1.1.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/b7df92fff1cb990190536e5c1d3465a8/jetified-tracing-1.0.0-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/e870ce4140956160fecd816e1f5605c8/jetified-window-java-1.0.0-beta04-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/1c2ddaa9a69511e12e5f8558ea4df35c/jetified-window-1.0.0-beta04-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/777c76d2bf354e4dc5460f39e4a9df59/jetified-kotlinx-coroutines-android-1.5.2.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/20ec8b2b367e8bde37dba67c5171f6fc/jetified-kotlinx-coroutines-core-jvm-1.5.2.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/b26a015482b3f46ef82751c4dae01b5f/jetified-kotlin-stdlib-jdk8-1.5.30.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/a2b54f57ed8b3dd08b842bd22cb9b5ae/jetified-kotlin-stdlib-jdk7-1.5.30.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/4863cdbfe0191923bfbcb7c2429d26a2/jetified-kotlin-stdlib-1.5.31.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/b1d61aea86a76263a10f62d47ff7e230/jetified-annotations-13.0.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/1da4a613b71a008dfc95a6d825501aa2/jetified-kotlin-stdlib-common-1.5.31.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/3d22b14f799d062cf38992f16c5f03bd/jetified-exoplayer-core-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/9e39df908f659f77552841753c7613eb/jetified-exoplayer-common-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/5e7439d82556d49faf2e29c2e2af35a3/jetified-guava-27.1-android.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/9f0e056fb1a2728e4ddaaac267944a60/jetified-failureaccess-1.0.1.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/a07da20f7e7f64f1904cbc854258ce88/jetified-listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/0ca1eb1b53771c2472625cba010a407e/jetified-exoplayer-extractor-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/424e9d197f66f4eabaf998b4603a8f37/jetified-exoplayer-dash-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/09a99d84931d53eb1424610304f7b536/jetified-exoplayer-hls-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/513546a66c2c48179148db7983d67bfa/jetified-exoplayer-smoothstreaming-2.13.1-api.jar:/Users/ilagordinov/.gradle/caches/transforms-2/files-2.1/0210796a8e0be92b20745fec86b0a00a/jetified-exoplayer-transformer-2.13.1-api.jar:/Users/ilagordinov/Library/Android/sdk/platforms/android-31/android.jar:/Users/ilagordinov/Library/Android/sdk/build-tools/29.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="flutter_radio_player_debug" />
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/res;file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/debug/res;file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/androidTest/res;file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_radio_player/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android">
+      <sourceFolder url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/src/main/res" type="java-resource" />
+      <excludeFolder url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/.gradle" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: ./../../../../../../Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_radio_player-1.1.0/android/tmplibs/flutter.jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-57d3bac3dd5cb5b0e464ab70e7bc8a0d8cf083ab" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.31" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:27.1-android" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:extension-mediasession:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-ui:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.media:media:1.2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.window:window-java:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.window:window:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-core:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-common:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-extractor:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-dash:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-transformer:2.13.1@aar" level="project" />
+    <orderEntry type="module" module-name="android.flutter_plugin_android_lifecycle" />
+  </component>
+</module>

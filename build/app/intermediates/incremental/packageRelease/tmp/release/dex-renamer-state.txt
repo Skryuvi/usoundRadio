@@ -1,0 +1,4 @@
+#Tue May 03 11:21:45 MSK 2022
+base.0=/Users/ilagordinov/Documents/GitHub/chesk/infogames/usoundRadio/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

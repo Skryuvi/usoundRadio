@@ -1,0 +1,20 @@
+-keep class android.app.Application { <init>(); }
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+-keep class com.usound.radio.usoundradio.MainActivity { <init>(); }
+-keep class io.flutter.plugins.share.ShareFileProvider { <init>(); }
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+-keep class me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver { <init>(); }
+-keep class me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver { <init>(); }
+-keep class me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshSchedulesReceiver { <init>(); }
+-keep class me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver { <init>(); }
+-keep class me.carda.awesome_notifications.services.ForegroundService { <init>(); }
+-keep class me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore { <init>(); }
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(android.content.Context, android.util.AttributeSet); }
+
